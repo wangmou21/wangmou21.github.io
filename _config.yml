@@ -83,10 +83,10 @@ author:
   name             : "Mou Wang"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Beijing, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=tNzlqKQAAAAJ&hl"
   email            : "wangmou21@mail.nwpu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Mou-Wang"
   uri              :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/wangmou21"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/mouwang/"
   orcid            : "https://orcid.org/0000-0002-6476-2501"
   pinterest        :
   soundcloud       :
@@ -111,7 +111,7 @@ author:
   tumblr           :
   twitter          : "replacethistwitterhandle"
   vine             :
-  weibo            :
+  weibo            : "https://weibo.com/u/1733724355"
   xing             :
   youtube          :
   wikipedia        :
