@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electronics and Information Engineering, Northwestern Polytechnical University, 2016
+* Ph.D in Information and Communication Engineering, Northwestern Polytechnical University, 2023
+* visiting Ph.D in Computer Science, National University of Singapore, 2021 ~ 2022
 
 Work experience
 ======
