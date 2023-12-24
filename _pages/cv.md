@@ -13,14 +13,16 @@ Education
 ======
 * B.S. in Electronics and Information Engineering, Northwestern Polytechnical University, 2016
 * Ph.D in Information and Communication Engineering, Northwestern Polytechnical University, 2023
+  * Supervisor: Professor [Susanto Rahardja](https://scholar.google.com/citations?user=OdkA4jMAAAAJ)  
 * visiting Ph.D in Computer Science, National University of Singapore, 2021 ~ 2022
+  * Supervisor: Professor [Zhiyong Huang](https://scholar.google.com/citations?user=C3rFBB8AAAAJ)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* August 2023: Postdoc
+  * Institute of Acoustics, Chinese Academy of Sciences
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor [Feiyan Yang](https://scholar.google.com/citations?hl=zh-CN&user=PWBq4TUAAAAJ)
 
 * Fall 2015: Research Assistant
   * Github University
