@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mou Wang"
+  name             : "Mou Wang (王谋)"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "A Postdoc in Institute of Acoustics of CAS."
   location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=tNzlqKQAAAAJ&hl"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=tNzlqKQAAAAJ"
   email            : "wangmou21@mail.nwpu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Mou-Wang"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            : "https://weibo.com/u/1733724355"
   xing             :
