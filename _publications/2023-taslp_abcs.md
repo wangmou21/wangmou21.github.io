@@ -1,7 +1,7 @@
 ---
 title: "End-to-End Multi-Modal Speech Recognition on an Air and Bone Conducted Speech Corpus"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2023-taslp-abcs
 excerpt: 'In this paper, we first develop a multi-modal Mandarin corpus, which contains air- and bone-conducted synchronized speech (ABCS). Then, we propose a multi-modal conformer ASR system based on a novel multi-modal transducer.'
 date: 2022-11-23
 venue: 'IEEE/ACM Transactions on Audio, Speech, and Language Processing'
