@@ -67,9 +67,12 @@ redirect_from:
   * N. Gao, **M. Wang**, B. Cheng, "[Deep auto-encoder network in Predictive Design of Helmholtz resonator: On-demand prediction of sound absorption peak](https://www.sciencedirect.com/science/article/pii/S0003682X22000548)", Applied Acoustics,191, 108680, 2022. 
   * B. Cheng, **M. Wang**, N. Gao, H. Hou, "[Machine learning inversion design and application verification of a broadband acoustic filtering structure](https://www.sciencedirect.com/science/article/pii/S0003682X21006162)", Applied Acoustics, 187, 108522, 2022.
   * M. Zhao, **M. Wang**, J. Chen, S. Rahardja, "[Perceptual Loss Constrained Adversarial Autoencoder Networks for Hyperspectral Unmixing](https://ieeexplore.ieee.org/document/9684434)", IEEE Geoscience and Remote Sensing Letters, vol. 19, pp.1-5, 2022.
-
-
-
+  * Q. Wang, **M. Wang**, Y. Yang, X. Zhang, "[Multi-modal Emotion Recognition using EEG and Speech Signals](https://www.sciencedirect.com/science/article/pii/S0010482522006503)", Computers in Biology and Medicine, vol. 149, 105907, 2022.
+  * X. Li, J. Chen, J. Bai, M. S. Ayub, D. Zhang, **M. Wang**, Q. Yan, "[Deep Learning-based DOA Estimation Using CRNN for Underwater Acoustic Arrays](https://www.frontiersin.org/articles/10.3389/fmars.2022.1027830/full)", Frontiers in Marine Science, vol. 9, 2022.
+  * M. Zhao, **M. Wang**, J. Chen and S. Rahardja, "[Hyperspectral Unmixing for Additive Nonlinear Models With a 3-D-CNN Autoencoder Network](https://ieeexplore.ieee.org/document/9503107)", IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-15, 2021.
+  * N. Gao, **M. Wang**, B. Cheng, H. Hou, "[Inverse design and experimental verification of an acoustic sink based on machine learning](https://www.sciencedirect.com/science/article/pii/S0003682X21002474)", Applied Acoustics, 180, 108153, 2021. 
+  * H. Wang, Y. Yin, B. Li, J. Bai, **M. Wang**, "[High-Throughput Screening of Metal-Organic Frameworks for the Impure Hydrogen Storage Supplying to a Fuel Cell Vehicle](https://link.springer.com/article/10.1007/s11242-020-01527-5)", Transport in Porous Media, 140, 727-742, 2021.
+  * 朱文博, **王谋**, 张晓雷, Susanto Rahardja, [基于语音分离的人工设计特征、参数化特征和可学习特征的比较](http://journal.cuc.edu.cn/frmShowPaperSummary.aspx?id=2041), 中国传媒大学学报(自然科学版), vol. 28, no. 03, pp. 52-57, 2021.
 * 会议论文(其他作者)
   * H. Yin, **M. Wang**. J. Bai. D. Shi. W. Gan. J. Chen, "[Sub-Band and Full-Band Interactive U-Net with Dprnn for Demixing Cross-Talk Stereo Music](https://ieeexplore.ieee.org/document/10627597)", 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW), Seoul, Korea, Republic of, 2024, pp. 21-22.
   * J. Bai, H. Liu, **M. Wang**, S. Rahardja, "[AudioSetCaps: Enriched Audio Captioning Dataset Generation Using Large Audio Language Models](https://openreview.net/forum?id=uez4PMZwzP)", NeurIPS 2024 Workshop, 2024. 
