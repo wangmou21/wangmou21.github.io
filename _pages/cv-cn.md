@@ -16,6 +16,7 @@ redirect_from:
   * 方向：智能语音算法的端侧部署
 * 2023.09 - 至今：高级音频算法工程师, OPPO
   * 手机OPPO Find X8 系列MTK平台手持&免提两种模式下的人声突显
+* 2019.08 - 2019.12: 核心算法工程师(实习), 科大讯飞
 
 教育经历
 ======
@@ -30,7 +31,8 @@ redirect_from:
   * 华为博士生学术资助计划
 
 * 2012:09 - 2016.07: 学士, 电子信息工程, 西北工业大学
-  * 校优秀毕业生
+  * 校优秀毕业生, 校优秀毕业设计
+  * "宝钢" 学生优秀奖, 中国电信奖学金
   * 作为校年度学生代表，事迹收录于《国家奖学金获奖学生风采录》
 
 * 2017: 法国优秀硕士暑期学校，项目: 课程为社会、环境和历史遗产的多谱成像
@@ -53,9 +55,13 @@ redirect_from:
   * S. Rahardja, **M. Wang**, B. P. Nguyen, P. Fränti, S. Rahardja, "[A Lightweight Classification of Adaptor Proteins Using Transformer Networks](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-05000-6)". BMC Bioinformatics, vol. 23, 461, 2022.
 * 会议论文(其他作者)
   * H. Yin, **M. Wang**. J. Bai. D. Shi. W. Gan. J. Chen, "[Sub-Band and Full-Band Interactive U-Net with Dprnn for Demixing Cross-Talk Stereo Music](https://ieeexplore.ieee.org/document/10627597)", 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW), Seoul, Korea, Republic of, 2024, pp. 21-22.
-  * J. Bai, H. Liu, **M. Wang**, S. Rahardja, "AudioSetCaps: Enriched Audio Captioning Dataset Generation Using Large Audio Language Models", NeurIPS 2024 Workshop, 2024. 
+  * J. Bai, H. Liu, **M. Wang**, S. Rahardja, "[AudioSetCaps: Enriched Audio Captioning Dataset Generation Using Large Audio Language Models](https://openreview.net/forum?id=uez4PMZwzP)", NeurIPS 2024 Workshop, 2024. 
   * J. Bai, H. Yin, **M. Wang**, D. Shi, W. Gan, J. Chen, "[Audiolog: LLMs-Powered Long Audio Logging with Hybrid Token-Semantic Contrastive Learning](https://ieeexplore.ieee.org/document/10688214)", 2024 IEEE International Conference on Multimedia and Expo (ICME), Niagara Falls, ON, Canada, 2024, pp. 1-6.
   * M Liu, X. Li, **M. Wang**, X.L Zhang, S. Rahardja, "[MTBV: Multi-Trigger Backdoor Attacks on Speaker Verification](https://ieeexplore.ieee.org/document/10770433)", 2024 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), 2024.
+
+  * W. Zhu, **M. Wang**, X.L. Zhang, S. Rahardja, "[A comparison of handcrafted, parameterized, and learnable features for speech separation](https://ieeexplore.ieee.org/document/9689622)", 13th Asia-Pacific Signal and Information Processing Association Annual Summit and Conference, Tokyo, Japan, 2021, pp. 635-639.
+  * R. Wang, **M. Wang**, X.L. Zhang, S. Rahardja, "[Domain Adaptation Neural Network for Acoustic Scene Classification in Mismatched Conditions](https://ieeexplore.ieee.org/document/9023057)", 2019 11th Asia-Pacific Signal and Information Processing Association Annual Summit and Conference, Lanzhou, China, 2019, pp. 1501-1505.
+  * S. Zhang, Y. Wu, **M. Wang**, "[Pulse Signal Analysis for Pneumoconiosis Detection with SVM](https://ieeexplore.ieee.org/document/8645053)", 2018 International Symposium on Computer, Consumer and Control, Taichung, Taiwan, 2018, pp. 221-224.
 
 专利
 ======
@@ -85,7 +91,7 @@ redirect_from:
 * 陕西高等学校科学技术研究优秀成果奖，二等奖，2023.4
 * IEEE Transactions on Multimedia杰出审稿人
 * 国际会议Ubi-Media 优秀论文奖, 2019
-* 学校期间的科学竞赛：
+* 科学竞赛：
   * 世界首届大学生水下机器人大赛创意概念赛道一等奖
   * 第七届"互联网+"大赛陕西省省赛金奖
   * "兆易创新杯"第十七届中国研究生电子设计竞赛商业计划书专项赛全国一等奖，西北赛区一等奖
@@ -108,3 +114,4 @@ redirect_from:
 * 举办ICME 2024 Grand Challenge, 2024, [Semi-supervised Acoustic Scene Classification under Domain Shift](https://2024.ieeeicme.org/grand-challenge-proposals/).
 * 志愿者, APSIPA ASC国际会议(2018), IWAENC国际会议(2016).
 * 志愿者, IEEE亚太区五十周年与IEEE西安分会十周年庆典, 2017.
+* 创新工场 Deecamp 2018 人工智能训练营, AI自动作曲项目, 优秀Demo奖
