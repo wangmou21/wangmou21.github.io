@@ -58,21 +58,29 @@ redirect_from:
   * J. Bai, H. Liu, **M. Wang**, S. Rahardja, "[AudioSetCaps: Enriched Audio Captioning Dataset Generation Using Large Audio Language Models](https://openreview.net/forum?id=uez4PMZwzP)", NeurIPS 2024 Workshop, 2024. 
   * J. Bai, H. Yin, **M. Wang**, D. Shi, W. Gan, J. Chen, "[Audiolog: LLMs-Powered Long Audio Logging with Hybrid Token-Semantic Contrastive Learning](https://ieeexplore.ieee.org/document/10688214)", 2024 IEEE International Conference on Multimedia and Expo (ICME), Niagara Falls, ON, Canada, 2024, pp. 1-6.
   * M Liu, X. Li, **M. Wang**, X.L Zhang, S. Rahardja, "[MTBV: Multi-Trigger Backdoor Attacks on Speaker Verification](https://ieeexplore.ieee.org/document/10770433)", 2024 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), 2024.
-
+  * X. Tan, J. Chen, J. Yang, S. Rahardja, **M. Wang**, S. Rahardja, "[Ensemble of Deep Variational Mixture Models for Unsupervised Clustering](https://ieeexplore.ieee.org/abstract/document/10647931)", 2024 IEEE International Conference on Image Processing (ICIP), Abu Dhabi, United Arab Emirates, 2024, pp. 807-813.
+  * Z. Li, J. Lu, Z. Zhao, W. Wang, **M. Wang**, Z, Wang, X. Liu, "[Progressive Sub-Graph Clustering Algorithm for Semi-Supervised Domain Adaptation Speaker Verification](https://ieeexplore.ieee.org/document/10770551)", 2024 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), 2024.
+  * 李茁, **王谋**, 王子腾, 刘鑫, 杨飞然, 面向说话人识别的最近邻惩罚圆损失函数, 第十九届全国人机语音通讯学术会议(NCMMSC2024), 2024.
+  * J. Bai, S. Huang, H. Yin, Y. Jia, **M. Wang**, J. Chen, "[3D Audio Signal Processing Systems for Speech Enhancement and Sound Localization and Detection](https://ieeexplore.ieee.org/document/10096667)", 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, Greece, 2023, pp. 1-2.
+  * H. Yin, J. Bai, **M. Wang**, S. Huang, Y. Jia, J. Chen, "[Convolutional Recurrent Neural Network with Attention for 3D Speech Enhancement](https://ieeexplore.ieee.org/document/10400283)", 13th IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), Zhengzhou, China, 2023, pp. 1-5.
+  * J. Chen, **M. Wang**, X. Zhang, Z. Huang, S. Rahardja, "[End-to-end Multi-modal Speech Recognition with Air and Bone Conducted Speech](https://ieeexplore.ieee.org/document/9747306)". 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Singapore, 2022, pp. 6052-6056.
+  * J. Bai, S. Huang, Y. Jia, **M. Wang**, J. Chen, "[Cross-stitch Network based System for Sound Event Localization and Detection in L3DAS22 Challenge](https://www.isca-speech.org/archive/l3das_2022/bai22_l3das.html)", L3DAS22 Challenge, 2022, pp. 6-10.
+  * B. Li, **M. Wang**, Z. Mao, B. Song, W. Tian, Q. Sun, W. Wang, "[Machine Learning Methods for Temperature Prediction of Autonomous Underwater Vehicle’s Battery Pack](https://link.springer.com/chapter/10.1007/978-981-99-0479-2_295)", International Conference on Autonomous Unmanned System, 2022, pp. 3204–3215.
+  * J. Bai, **M. Wang**, J. Chen, "[Dual-Path Transformer for Machine Condition Monitoring](https://ieeexplore.ieee.org/document/9689664)", 13th Asia-Pacific Signal and Information Processing Association Annual Summit and Conference, Tokyo, Japan, 2021, pp. 1144-1148.
   * W. Zhu, **M. Wang**, X.L. Zhang, S. Rahardja, "[A comparison of handcrafted, parameterized, and learnable features for speech separation](https://ieeexplore.ieee.org/document/9689622)", 13th Asia-Pacific Signal and Information Processing Association Annual Summit and Conference, Tokyo, Japan, 2021, pp. 635-639.
   * R. Wang, **M. Wang**, X.L. Zhang, S. Rahardja, "[Domain Adaptation Neural Network for Acoustic Scene Classification in Mismatched Conditions](https://ieeexplore.ieee.org/document/9023057)", 2019 11th Asia-Pacific Signal and Information Processing Association Annual Summit and Conference, Lanzhou, China, 2019, pp. 1501-1505.
   * S. Zhang, Y. Wu, **M. Wang**, "[Pulse Signal Analysis for Pneumoconiosis Detection with SVM](https://ieeexplore.ieee.org/document/8645053)", 2018 International Symposium on Computer, Consumer and Control, Taichung, Taiwan, 2018, pp. 221-224.
 
 专利
 ======
-* 王谋, 陈俊淇, 张晓雷, 王逸平, 一种端到端的骨气导语音联合识别方法，发明专利，202210153909.5.
-* 王谋，张晓雷，王逸平, 一种端到端的骨气导语音联合增强方法, 发明专利，202011612056.4. 授权
-* 王谋，张晓雷，王逸平, 一种应用于声场景的分类方法及装置, 发明专利，201810413386.7. 授权
-* 白吉生，陈建峰，王谋，项彬，一种基于卷积神经网络的局部放电超声波检测和定位方法，发明专利，申请公告日：2023.5.15.
-* 汪辉，白俊强，王谋，郭彬，刘成茂, 一种光电导航系统的超分辨率图像异常目标检测方法及系统, 发明专利，202011242621.2. 授权
-* 申晓红，王谋，孙琦璇，董海涛，马石磊，张红伟，王逸平，一种基于HPSS的水下目标被动检测方法，发明专利，202010351761.7, 授权公告号CN111505650B.
-* 申晓红，孙琦璇，王谋，董海涛，马石磊，锁健，王逸平，一种基于卷积神经网络的水下目标被动检测方法，发明专利，202010432897.0.
-* 刘松涛，王谋，董鹏飞，易政宇，杨宏安， 自平衡3D激光扫描仪， 实用新型专利， 201520355566.6.
+* **王谋**, 陈俊淇, 张晓雷, 王逸平, 一种端到端的骨气导语音联合识别方法，发明专利，202210153909.5.
+* **王谋**，张晓雷，王逸平, 一种端到端的骨气导语音联合增强方法, 发明专利，202011612056.4. 授权
+* **王谋**，张晓雷，王逸平, 一种应用于声场景的分类方法及装置, 发明专利，201810413386.7. 授权
+* 白吉生，陈建峰，**王谋**，项彬，一种基于卷积神经网络的局部放电超声波检测和定位方法，发明专利，申请公告日：2023.5.15.
+* 汪辉，白俊强，**王谋**，郭彬，刘成茂, 一种光电导航系统的超分辨率图像异常目标检测方法及系统, 发明专利，202011242621.2. 授权
+* 申晓红，**王谋**，孙琦璇，董海涛，马石磊，张红伟，王逸平，一种基于HPSS的水下目标被动检测方法，发明专利，202010351761.7, 授权公告号CN111505650B.
+* 申晓红，孙琦璇，**王谋**，董海涛，马石磊，锁健，王逸平，一种基于卷积神经网络的水下目标被动检测方法，发明专利，202010432897.0.
+* 刘松涛，**王谋**，董鹏飞，易政宇，杨宏安， 自平衡3D激光扫描仪， 实用新型专利， 201520355566.6.
 
 书籍
 ======
@@ -108,7 +116,7 @@ redirect_from:
 ======
 * 审稿人,  IEEE Transactions on Multimedia, IEEE Transactions on Audio, Speech and Language Processing, IEEE Transactions on Industrial Electronics, IEEE Transactions on Automation Science and Engineering, IEEE Transactions on Cognitive and Developmental Systems, Neural Networks 等10余个国际期刊.
 
-其他活动
+其他经历
 ======
 * Sponsor & Web Chair, [ISCPCC国际会议](http://www.icspcc.org/)，印度尼西亚，2024
 * 举办ICME 2024 Grand Challenge, 2024, [Semi-supervised Acoustic Scene Classification under Domain Shift](https://2024.ieeeicme.org/grand-challenge-proposals/).
