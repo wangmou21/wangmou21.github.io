@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "履历"
+title: "小废柴的过往"
 permalink: /cv-cn/
 author_profile: true
 redirect_from:
@@ -9,25 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-教育背景
+工作经历
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2023.08 - 至今：博士后, 中国科学院声学研究所
+  * 导师：杨飞然
+  * 方向：智能语音算法的端侧部署
+* 2023.09 - 至今：高级音频算法工程师, OPPO
+  * 手机OPPO Find X8 系列MTK平台手持&免提两种模式下的人生突显
 
-Work experience
+教育经历
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2016.09 - 2023.07: 博士, 信息与通信工程, 西北工业大学
+  * 推免直博，校优秀毕业生
+  * 智能声学与临境通信研究中心 (带头人：[陈景东](https://scholar.google.com/citations?user=hWAy1jcAAAAJ)教授)
 
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
+* 2012:09 - 2016.07: 学士, 电子信息工程, 西北工业大学
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
