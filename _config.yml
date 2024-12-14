@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Mou Wang / 王谋"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Mou Wang"
 description              : &description "personal description"
 url                      : https://wangmou21.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
