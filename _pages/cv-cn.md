@@ -90,9 +90,10 @@ redirect_from:
   * W. Zhu, **M. Wang**, X.L. Zhang, S. Rahardja, "[A comparison of handcrafted, parameterized, and learnable features for speech separation](https://ieeexplore.ieee.org/document/9689622)", 13th Asia-Pacific Signal and Information Processing Association Annual Summit and Conference, Tokyo, Japan, 2021, pp. 635-639.
   * R. Wang, **M. Wang**, X.L. Zhang, S. Rahardja, "[Domain Adaptation Neural Network for Acoustic Scene Classification in Mismatched Conditions](https://ieeexplore.ieee.org/document/9023057)", 2019 11th Asia-Pacific Signal and Information Processing Association Annual Summit and Conference, Lanzhou, China, 2019, pp. 1501-1505.
   * S. Zhang, Y. Wu, **M. Wang**, "[Pulse Signal Analysis for Pneumoconiosis Detection with SVM](https://ieeexplore.ieee.org/document/8645053)", 2018 International Symposium on Computer, Consumer and Control, Taichung, Taiwan, 2018, pp. 221-224.
-* 在投论文
+* arXiv论文
   * J. Bai, H. Liu, **M. Wang**, D. Shi, W. Wang, M. D. Plumbley, W. Gan, J. Chen, "[AudioSetCaps: An Enriched Audio-Caption Dataset using Automated Generation Pipeline with Large Audio and Language Models](https://arxiv.org/abs/2411.18953)", arXiv:2411.18953, 2024. 
-
+  * D. Zhang, J. Chen, J. Bai, **M. Wang**, "[Sound event localization and classification using WASN in Outdoor Environment](https://arxiv.org/abs/2403.20130)", 	arXiv:2403.20130, 2024.
+  
 专利
 ======
 * **王谋**, 陈俊淇, 张晓雷, 王逸平, 一种端到端的骨气导语音联合识别方法，发明专利，202210153909.5.
