@@ -90,6 +90,8 @@ redirect_from:
   * W. Zhu, **M. Wang**, X.L. Zhang, S. Rahardja, "[A comparison of handcrafted, parameterized, and learnable features for speech separation](https://ieeexplore.ieee.org/document/9689622)", 13th Asia-Pacific Signal and Information Processing Association Annual Summit and Conference, Tokyo, Japan, 2021, pp. 635-639.
   * R. Wang, **M. Wang**, X.L. Zhang, S. Rahardja, "[Domain Adaptation Neural Network for Acoustic Scene Classification in Mismatched Conditions](https://ieeexplore.ieee.org/document/9023057)", 2019 11th Asia-Pacific Signal and Information Processing Association Annual Summit and Conference, Lanzhou, China, 2019, pp. 1501-1505.
   * S. Zhang, Y. Wu, **M. Wang**, "[Pulse Signal Analysis for Pneumoconiosis Detection with SVM](https://ieeexplore.ieee.org/document/8645053)", 2018 International Symposium on Computer, Consumer and Control, Taichung, Taiwan, 2018, pp. 221-224.
+* 在投论文
+  * J. Bai, H. Liu, **M. Wang**, D. Shi, W. Wang, M. D. Plumbley, W. Gan, J. Chen, "[AudioSetCaps: An Enriched Audio-Caption Dataset using Automated Generation Pipeline with Large Audio and Language Models](https://arxiv.org/abs/2411.18953)", arXiv:2411.18953, 2024. 
 
 专利
 ======
@@ -134,7 +136,7 @@ redirect_from:
   
 学术任职
 ======
-* 审稿人,  IEEE Transactions on Multimedia, IEEE Transactions on Audio, Speech and Language Processing, IEEE Transactions on Industrial Electronics, IEEE Transactions on Automation Science and Engineering, IEEE Transactions on Cognitive and Developmental Systems, Neural Networks 等10余个国际期刊.
+* 审稿人,  IEEE Transactions on Multimedia, IEEE Transactions on Audio, Speech and Language Processing, IEEE Transactions on Industrial Electronics, IEEE Transactions on Information Forensics & Security, IEEE Transactions on Automation Science and Engineering, IEEE Transactions on Cognitive and Developmental Systems, Neural Networks 等10余个国际期刊.
 
 其他经历
 ======
