@@ -92,7 +92,7 @@ redirect_from:
   * R. Wang, **M. Wang**, X.L. Zhang, S. Rahardja, "[Domain Adaptation Neural Network for Acoustic Scene Classification in Mismatched Conditions](https://ieeexplore.ieee.org/document/9023057)", 2019 11th Asia-Pacific Signal and Information Processing Association Annual Summit and Conference, Lanzhou, China, 2019, pp. 1501-1505.
   * S. Zhang, Y. Wu, **M. Wang**, "[Pulse Signal Analysis for Pneumoconiosis Detection with SVM](https://ieeexplore.ieee.org/document/8645053)", 2018 International Symposium on Computer, Consumer and Control, Taichung, Taiwan, 2018, pp. 221-224.
 * arXiv论文
-  * J. Bai, H. Liu, **M. Wang**, D. Shi, W. Wang, M. D. Plumbley, W. Gan, J. Chen, "[AudioSetCaps: An Enriched Audio-Caption Dataset using Automated Generation Pipeline with Large Audio and Language Models](https://arxiv.org/abs/2411.18953)", arXiv:2411.18953, 2024. 
+  * J. Bai, H. Liu, **M. Wang**, D. Shi, W. Wang, M. D. Plumbley, W. Gan, J. Chen, "[AudioSetCaps: An Enriched Audio-Caption Dataset using Automated Generation Pipeline with Large Audio and Language Models](https://arxiv.org/abs/2411.18953)", arXiv:2411.18953, 2024. [[github](https://github.com/JishengBai/AudioSetCaps)]
   * D. Zhang, J. Chen, J. Bai, **M. Wang**, "[Sound event localization and classification using WASN in Outdoor Environment](https://arxiv.org/abs/2403.20130)", 	arXiv:2403.20130, 2024.
   
 专利
