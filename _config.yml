@@ -11,7 +11,7 @@ title                    : "Mou Wang / 王谋"
 title_separator          : "-"
 name                     : &name "Mou Wang"
 description              : &description "personal description"
-url                      : https://wangmou21.github.io
+url                      : https://wangmou.site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wangmou21/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
