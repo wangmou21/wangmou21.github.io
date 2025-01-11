@@ -147,4 +147,4 @@ redirect_from:
 * 举办ICME 2024 Grand Challenge, 2024, [Semi-supervised Acoustic Scene Classification under Domain Shift](https://2024.ieeeicme.org/grand-challenge-proposals/).
 * 志愿者, APSIPA ASC国际会议(2018), IWAENC国际会议(2016).
 * 志愿者, IEEE亚太区五十周年与IEEE西安分会十周年庆典, 2017.
-* 创新工场 Deecamp 2018 人工智能训练营, AI自动作曲项目, 优秀Demo奖
+* 创新工场 [Deecamp 2018](https://deecamp.com/#/home) 人工智能训练营, AI自动作曲项目, 优秀Demo奖
