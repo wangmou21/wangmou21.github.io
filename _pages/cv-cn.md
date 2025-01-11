@@ -23,7 +23,7 @@ redirect_from:
 * 2016.09 - 2023.07: 博士, 信息与通信工程, 西北工业大学
   * 导师：[Susanto Rahardja](https://scholar.google.com/citations?user=OdkA4jMAAAAJ), IEEE Fellow, 国家千人计划外国专家, 新加坡工程院院士
   * 推免直博，校优秀毕业生
-  * 智能声学与临境通信研究中心 (带头人: [陈景东](https://scholar.google.com/citations?user=hWAy1jcAAAAJ)教授)
+  * [智能声学与临境通信研究中心](https://ciaic.org/) (带头人: [陈景东](https://scholar.google.com/citations?user=hWAy1jcAAAAJ)教授)
 
 * 2021.06 - 2022.06: 联合培养项目, 计算机科学, 新加坡国立大学
   * 导师：[黄智勇](https://scholar.google.com/citations?user=C3rFBB8AAAAJ)
@@ -60,7 +60,7 @@ redirect_from:
   * S. Guan, **M. Wang**, Z. Bai, J. Wang, J. Chen, J. Benesty, "[Smoothed Frame-Level SINR and Its Estimation for Sensor Selection in Distributed Acoustic Sensor Networks](https://ieeexplore.ieee.org/document/10711254)", IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 32, pp. 4554-4568, 2024. 
   * D. Zhang, J. Chen, J. Bai, **M. Wang**, MS Ayub, Q. Yan, D. Shi, W-Seng Gan, "[Multiple Sound Sources Localization Using Sub-band Spatial Features and Attention Mechanism](https://link.springer.com/article/10.1007/s00034-024-02925-6)", Circuits, Systems, and Signal Processing, 2024. 
   * C. Yan, S. Yan, T. Yao, Y. Yu, G. Pan, L. Liu, **M. Wang**, J. Bai, "[A Lightweight Network Based on Multi-Scale Asymmetric Convolutional Neural Networks with Attention Mechanism for Ship-Radiated Noise Classification](https://www.mdpi.com/2077-1312/12/1/130)", Journal of Marine Science and Engineering, vol. 12, no. 1, 130, 2024.
-  * 刘升东, 杨飞然, **王谋**, 李茁, 杨军. 扩散噪声环境下的多通道语音分离方法. 声学学报, vol. 49, no. 06, pp. 1304-1314, 2024. 
+  * 刘升东, 杨飞然, **王谋**, 李茁, 杨军. [扩散噪声环境下的多通道语音分离方法](https://jac.ac.cn/article/doi/10.12395/0371-0025.2024137). 声学学报, vol. 49, no. 06, pp. 1304-1314, 2024. 
   * J. Bai, J. Chen, **M. Wang**, M. S. Ayub, Q. Yan, "[SSDPT: Self-Supervised Dual-Path Transformer for Anomalous Sound Detection in Machine Condition Monitoring](https://www.sciencedirect.com/science/article/pii/S1051200423000349)", Digital Signal Processing, vol. 135, 103939, 2023.
   * T. Liu, L. Guo, **M. Wang**, C. Su, J. Chen, W. Wu, "[Review on Algorithm Design in Electronic Noses: Challenges, Status, and Trends](https://spj.science.org/doi/10.34133/icomputing.0012)", Intelligent Computing, vol. 2, 0012, 2023.
   * J. Bai, J. Chen, **M. Wang**, "[Multimodal Urban Sound Tagging With Spatiotemporal Context](https://ieeexplore.ieee.org/document/9737309?source=authoralert)", IEEE Transactions on Cognitive and Developmental Systems, vol. 15, no. 2, pp. 555-565, June 2023.
@@ -114,6 +114,7 @@ redirect_from:
 ======
 * 第一届"声华杯"声学技术大赛, TWS耳机语音增强, 二等奖, 2023
 * 科大讯飞AI开发者大赛, [基于声纹的人声分离挑战赛](http://challenge.xfyun.cn/topic/info?type=separate-noise-reduction), 二等奖, 2022
+* DCASE Challenge 2020 Task5, 第二名
   
 奖励
 ======
@@ -123,7 +124,7 @@ redirect_from:
 * 陕西高等学校科学技术研究优秀成果奖，二等奖，2023.4
 * IEEE Transactions on Multimedia杰出审稿人
 * 国际会议Ubi-Media 优秀论文奖, 2019
-* 科学竞赛：
+* 学科竞赛：
   * 世界首届大学生水下机器人大赛创意概念赛道一等奖
   * 第七届"互联网+"大赛陕西省省赛金奖
   * "兆易创新杯"第十七届中国研究生电子设计竞赛商业计划书专项赛全国一等奖，西北赛区一等奖
