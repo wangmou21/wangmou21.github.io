@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "小废柴的过往"
+title: "简历"
 permalink: /cv-cn/
 author_profile: true
 redirect_from:
@@ -21,7 +21,7 @@ redirect_from:
 教育经历
 ======
 * 2016.09 - 2023.07: 博士, 信息与通信工程, 西北工业大学
-  * 导师：[Susanto Rahardja](https://scholar.google.com/citations?user=OdkA4jMAAAAJ), IEEE Fellow, 国家千人计划外国专家, 新加坡工程院院士
+  * 导师：[Susanto Rahardja](https://scholar.google.com/citations?user=OdkA4jMAAAAJ), IEEE Fellow, 新加坡工程院院士
   * 推免直博，校优秀毕业生
   * [智能声学与临境通信研究中心](https://ciaic.org/) (带头人: [陈景东](https://scholar.google.com/citations?user=hWAy1jcAAAAJ)教授)
 
