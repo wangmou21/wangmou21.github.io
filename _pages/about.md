@@ -20,7 +20,7 @@ I am a Postdoc in [Institute of Acoustics of the Chinese Academy of Sciences](ht
 - 2021.06 - 2022.06 National University of Singapore
   - •	Non-Graduating Program, Computer Science
 
-- 2012.09 - 2016.07 *Northwestern Polytechnical University
+- 2012.09 - 2016.07 Northwestern Polytechnical University
   - •	B. Eng., Electronics and Information Engineering
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
