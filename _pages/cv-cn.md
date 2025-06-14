@@ -51,11 +51,13 @@ redirect_from:
   * **M. Wang**, X.L. Zhang, S. Rahardja, "[An Unsupervised Deep Learning System for Acoustic Scene Analysis](https://www.mdpi.com/2076-3417/10/6/2076/html)", Applied Sciences, vol. 10, no. 6, pp. 2076, Mar. 2020.
   * **王谋**, 白吉生, 黄思维, 李茁, 刘鑫, 杨飞然, 王子腾. 基于注意力机制和数据过采样的酒瓶裂纹敲击异常声音检测系统. 计算机工程与应用. 2024. (NCMMSC2024会议论文推荐至期刊发表)
 * 会议论文(第一作者)
+  * **M. Wang**, K. Kuang, Z. Li, F. Yang, J. Bai, X. Liu, "Deep-filtering-based Speech Enhancement via Bone-conducted Speech", 15th IEEE International Conference on Signal Processing, Communications and Computing, 2025.
   * **M. Wang**, X.L. Zhang, S. Rahardja, "[A Hybrid Approach for Mobile Phone Clustering with Speech Recordings](https://ieeexplore.ieee.org/document/9049622)", 2019 12th International Conference on Ubi-media Computing and Workshops, Bali, Indonesia, 2019, pp. 205-209.
   * **M. Wang**, R. Wang, X.L. Zhang, S. Rahardja, "[Hybrid Constant-Q Transform Based CNN Ensemble for Acoustic Scene Classification](https://ieeexplore.ieee.org/document/9023236)", 2019 11th Asia-Pacific Signal and Information Processing Association Annual Summit and Conference, Lanzhou, China, 2019, pp. 1511-1516.
 * 期刊论文(其他作者)
   * H. Wang, **M. Wang**, Y.Yin, Z. Qu, "[A universal structure of neural network for predicting heat, flow and mass transport in various three-dimensional porous media](https://www.sciencedirect.com/science/article/pii/S0017931025000298)", International Journal of Heat and Mass Transfer, vol. 241, 126688, 2025.  (共同一作)
   * S. Rahardja, **M. Wang**, B. P. Nguyen, P. Fränti, S. Rahardja, "[A Lightweight Classification of Adaptor Proteins Using Transformer Networks](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-05000-6)". BMC Bioinformatics, vol. 23, 461, 2022. (共同一作)
+  *   * J. Bai, H. Liu, **M. Wang**, D. Shi, W. Wang, M. D. Plumbley, W. Gan, J. Chen, "[AudioSetCaps: An Enriched Audio-Caption Dataset using Automated Generation Pipeline with Large Audio and Language Models](https://arxiv.org/abs/2411.18953)", IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2025. [[github](https://github.com/JishengBai/AudioSetCaps)]
   * H. Yin, J. Chen, J. Bai, **M. Wang**, S. Rahardja, D. Shi, W. Gan. "[Multi-granularity acoustic information fusion for sound event detection](https://www.sciencedirect.com/science/article/abs/pii/S0165168424003116)", Signal Processing, 227, 109691, 2025. 
   * D. Zhang, J. Chen, S. Huang, J. Bai, Y. Jia, **M. Wang**. "[Synthesis-to-real robust training for enhanced sound event localization and detection using dynamic kernel convolution networks](https://www.sciencedirect.com/science/article/abs/pii/S0003682X24004183)", Applied Acoustics, 228, 110267, 2025.
   * N. Gao, **M. Wang**, X. Liang, G. Pan, "[On-demand prediction of low-frequency average sound absorption coefficient of underwater coating using machine learning](https://www.sciencedirect.com/science/article/pii/S2590123025002518)", Results in Engineering, 104163, 2025.
@@ -78,6 +80,7 @@ redirect_from:
   * H. Wang, Y. Yin, B. Li, J. Bai, **M. Wang**, "[High-Throughput Screening of Metal-Organic Frameworks for the Impure Hydrogen Storage Supplying to a Fuel Cell Vehicle](https://link.springer.com/article/10.1007/s11242-020-01527-5)", Transport in Porous Media, 140, 727-742, 2021.
   * 朱文博, **王谋**, 张晓雷, Susanto Rahardja, [基于语音分离的人工设计特征、参数化特征和可学习特征的比较](http://journal.cuc.edu.cn/frmShowPaperSummary.aspx?id=2041), 中国传媒大学学报(自然科学版), vol. 28, no. 03, pp. 52-57, 2021.
 * 会议论文(其他作者)
+  * Z. Shang, **M. Wang**, X. Liu, "Restoring Harmonics: Enhancing Speech Quality with Deep Mask and Harmonic Restoration Network. Interspeech, 2025.
   * H. Yin, **M. Wang**. J. Bai. D. Shi. W. Gan. J. Chen, "[Sub-Band and Full-Band Interactive U-Net with Dprnn for Demixing Cross-Talk Stereo Music](https://ieeexplore.ieee.org/document/10627597)", 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW), Seoul, Korea, Republic of, 2024, pp. 21-22.
   * J. Bai, H. Liu, **M. Wang**, S. Rahardja, "[AudioSetCaps: Enriched Audio Captioning Dataset Generation Using Large Audio Language Models](https://openreview.net/forum?id=uez4PMZwzP)", NeurIPS 2024 Workshop, 2024. 
   * J. Bai, H. Yin, **M. Wang**, D. Shi, W. Gan, J. Chen, "[Audiolog: LLMs-Powered Long Audio Logging with Hybrid Token-Semantic Contrastive Learning](https://ieeexplore.ieee.org/document/10688214)", 2024 IEEE International Conference on Multimedia and Expo (ICME), Niagara Falls, ON, Canada, 2024, pp. 1-6.
@@ -95,7 +98,6 @@ redirect_from:
   * R. Wang, **M. Wang**, X.L. Zhang, S. Rahardja, "[Domain Adaptation Neural Network for Acoustic Scene Classification in Mismatched Conditions](https://ieeexplore.ieee.org/document/9023057)", 2019 11th Asia-Pacific Signal and Information Processing Association Annual Summit and Conference, Lanzhou, China, 2019, pp. 1501-1505.
   * S. Zhang, Y. Wu, **M. Wang**, "[Pulse Signal Analysis for Pneumoconiosis Detection with SVM](https://ieeexplore.ieee.org/document/8645053)", 2018 International Symposium on Computer, Consumer and Control, Taichung, Taiwan, 2018, pp. 221-224.
 * arXiv论文
-  * J. Bai, H. Liu, **M. Wang**, D. Shi, W. Wang, M. D. Plumbley, W. Gan, J. Chen, "[AudioSetCaps: An Enriched Audio-Caption Dataset using Automated Generation Pipeline with Large Audio and Language Models](https://arxiv.org/abs/2411.18953)", arXiv:2411.18953, 2024. [[github](https://github.com/JishengBai/AudioSetCaps)]
   * D. Zhang, J. Chen, J. Bai, **M. Wang**, "[Sound event localization and classification using WASN in Outdoor Environment](https://arxiv.org/abs/2403.20130)", 	arXiv:2403.20130, 2024.
   
 专利
@@ -146,6 +148,7 @@ redirect_from:
 
 其他经历
 ======
+* 举办APSIPA ASC 2025 Grand Challenge, [Spatiotemporal Enhanced Semi-supervised Acoustic Scene Classification](https://www.apsipa2025.org/wp/grand-challenge/).
 * Sponsor & Web Chair, [ISCPCC国际会议](http://www.icspcc.org/)，印度尼西亚，2024
 * 举办ICME 2024 Grand Challenge, 2024, [Semi-supervised Acoustic Scene Classification under Domain Shift](https://2024.ieeeicme.org/grand-challenge-proposals/).
 * 志愿者, APSIPA ASC国际会议(2018), IWAENC国际会议(2016).
