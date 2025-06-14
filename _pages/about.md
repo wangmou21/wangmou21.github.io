@@ -27,7 +27,7 @@ I am a Postdoc in [Institute of Acoustics of the Chinese Academy of Sciences](ht
 
 # Highlights 📃
 
-- Authored 28 international journals (6 papers as first author), 3 Chinese journal (1 paper as first author)
+- Authored 29 international journals (6 papers as first author), 3 Chinese journal (1 paper as first author)
 - Authored 19 international conferences (3 papers as first author), 1 Chinese coference.
 - Authored 8 Chinese patents (3 patents as first author)
 - Participate in writing 1 book
