@@ -16,7 +16,7 @@ redirect_from:
   * 方向：智能语音算法的端侧部署
 * 2023.09 - 至今：高级音频算法工程师, OPPO
   * 手机OPPO Find X8 系列MTK平台手持&免提两种模式下的人声突显 (X8 & X8 Pro & X8s & X8s+)
-  * 手机中端平台ADSP人声凸显小模型，(Reno14系列)
+  * 手机中端平台ADSP人声凸显小模型，(Reno14,k13系列)
 * 2019.08 - 2019.12: 核心算法工程师(实习), 科大讯飞
 
 教育经历
@@ -41,7 +41,7 @@ redirect_from:
   
 论文
 ======
-目前, 谷歌学术引用超850, h指数15, i10指数21
+目前, 谷歌学术引用超900, h指数16, i10指数22
 * 期刊论文(第一作者)
   * **M. Wang**, J. Chen, X.L Zhang, S. Rahardja, "[End-to-end Multi-modal Speech Recognition on An Air and Bone Conducted Speech Corpus](https://ieeexplore.ieee.org/document/9961873?source=authoralert)", IEEE/ACM Transactions on Audio, Speech and Language Processing, vol. 31, pp. 513-524, 2023.
   * **M. Wang**, M. Zhao, J. Chen, S. Rahardja, "[Nonlinear Unmixing of Hyperspectral Data via Deep Autoencoder Networks](https://ieeexplore.ieee.org/document/8667664)", IEEE Geoscience and Remote Sensing Letters, vol. 16, no. 9, pp. 1467-1471, Sept. 2019.
@@ -49,15 +49,18 @@ redirect_from:
   * **M. Wang**, S. Rahardja, P. Fränti, S. Rahardja, "[Single-lead ECG Recordings modeling for End-to-end Recognition of Atrial Fibrillation with Dual-path RNN](https://www.sciencedirect.com/science/article/pii/S1746809422005353)", Biomedical Signal Processing and Control, vol. 79, no. 1, 104067, 2023.
   * **M. Wang**, H. Wang, Y. Yin, S. Rahardja, Z. Qu, "[Temperature field prediction for various porous media considering variable boundary conditions using deep learning method](https://www.sciencedirect.com/science/article/pii/S0735193322000380)". International Communications in Heat and Mass Transfer, 132, 105916, 2022.
   * **M. Wang**, X.L. Zhang, S. Rahardja, "[An Unsupervised Deep Learning System for Acoustic Scene Analysis](https://www.mdpi.com/2076-3417/10/6/2076/html)", Applied Sciences, vol. 10, no. 6, pp. 2076, Mar. 2020.
-  * **王谋**, 白吉生, 黄思维, 李茁, 刘鑫, 杨飞然, 王子腾. 基于注意力机制和数据过采样的酒瓶裂纹敲击异常声音检测系统. 计算机工程与应用. 2024. (NCMMSC2024会议论文推荐至期刊发表)
+  * **王谋**, 白吉生, 黄思维, 李茁, 刘鑫, 杨飞然, 王子腾. 基于注意力机制的酒瓶裂纹敲击异常声音检测系统. 计算机工程与应用. 2024. (会议论文推荐至期刊发表)
 * 会议论文(第一作者)
-  * **M. Wang**, K. Kuang, Z. Li, F. Yang, J. Bai, X. Liu, "Deep-filtering-based Speech Enhancement via Bone-conducted Speech", 15th IEEE International Conference on Signal Processing, Communications and Computing, 2025.
+  * **M. Wang**, K. Kuang, Z. Li, F. Yang, J. Bai, X. Liu, "Deep-filtering-based Speech Enhancement via Bone-conducted Speech", 15th IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), 2025.
   * **M. Wang**, X.L. Zhang, S. Rahardja, "[A Hybrid Approach for Mobile Phone Clustering with Speech Recordings](https://ieeexplore.ieee.org/document/9049622)", 2019 12th International Conference on Ubi-media Computing and Workshops, Bali, Indonesia, 2019, pp. 205-209.
   * **M. Wang**, R. Wang, X.L. Zhang, S. Rahardja, "[Hybrid Constant-Q Transform Based CNN Ensemble for Acoustic Scene Classification](https://ieeexplore.ieee.org/document/9023236)", 2019 11th Asia-Pacific Signal and Information Processing Association Annual Summit and Conference, Lanzhou, China, 2019, pp. 1511-1516.
+  * **王谋**, 白吉生, 黄思维, 李茁, 刘鑫, 杨飞然, 王子腾. 基于注意力机制和数据过采样的酒瓶裂纹敲击异常声音检测系统. 第十九届全国人机语音通讯学术会议(NCMMSC). 2024.
 * 期刊论文(其他作者)
   * H. Wang, **M. Wang**, Y.Yin, Z. Qu, "[A universal structure of neural network for predicting heat, flow and mass transport in various three-dimensional porous media](https://www.sciencedirect.com/science/article/pii/S0017931025000298)", International Journal of Heat and Mass Transfer, vol. 241, 126688, 2025.  (共同一作)
   * S. Rahardja, **M. Wang**, B. P. Nguyen, P. Fränti, S. Rahardja, "[A Lightweight Classification of Adaptor Proteins Using Transformer Networks](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-05000-6)". BMC Bioinformatics, vol. 23, 461, 2022. (共同一作)
-  * J. Bai, H. Liu, **M. Wang**, D. Shi, W. Wang, M. D. Plumbley, W. Gan, J. Chen, "[AudioSetCaps: An Enriched Audio-Caption Dataset using Automated Generation Pipeline with Large Audio and Language Models](https://arxiv.org/abs/2411.18953)", IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2025. [[github](https://github.com/JishengBai/AudioSetCaps)]
+  * S. Guan, J. Wang, **M. Wang**, J. Chen, "Online Sampling Rate Offset Estimation via Real Part Maximization", IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2025.
+  * J. Bai, H. Liu, **M. Wang**, D. Shi, W. Wang, M. D. Plumbley, W. Gan, J. Chen, "[AudioSetCaps: An Enriched Audio-Caption Dataset using Automated Generation Pipeline with Large Audio and Language Models](https://ieeexplore.ieee.org/abstract/document/11051255)", IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 33, pp. 2817-2829, 2025. [[github](https://github.com/JishengBai/AudioSetCaps)]
+  * K. Kuang, F. Yang, **M. Wang**, J. Yang, "[Low-complexity bone conduction-aided speech enhancement leveraging sub-band and full-band architecture](https://www.sciencedirect.com/science/article/abs/pii/S0003682X25003962)", Applied Acoustics, 240, 110924, 2025.
   * H. Yin, J. Chen, J. Bai, **M. Wang**, S. Rahardja, D. Shi, W. Gan. "[Multi-granularity acoustic information fusion for sound event detection](https://www.sciencedirect.com/science/article/abs/pii/S0165168424003116)", Signal Processing, 227, 109691, 2025. 
   * D. Zhang, J. Chen, S. Huang, J. Bai, Y. Jia, **M. Wang**. "[Synthesis-to-real robust training for enhanced sound event localization and detection using dynamic kernel convolution networks](https://www.sciencedirect.com/science/article/abs/pii/S0003682X24004183)", Applied Acoustics, 228, 110267, 2025.
   * N. Gao, **M. Wang**, X. Liang, G. Pan, "[On-demand prediction of low-frequency average sound absorption coefficient of underwater coating using machine learning](https://www.sciencedirect.com/science/article/pii/S2590123025002518)", Results in Engineering, 104163, 2025.
@@ -81,7 +84,10 @@ redirect_from:
   * H. Wang, Y. Yin, B. Li, J. Bai, **M. Wang**, "[High-Throughput Screening of Metal-Organic Frameworks for the Impure Hydrogen Storage Supplying to a Fuel Cell Vehicle](https://link.springer.com/article/10.1007/s11242-020-01527-5)", Transport in Porous Media, 140, 727-742, 2021.
   * 朱文博, **王谋**, 张晓雷, Susanto Rahardja, [基于语音分离的人工设计特征、参数化特征和可学习特征的比较](http://journal.cuc.edu.cn/frmShowPaperSummary.aspx?id=2041), 中国传媒大学学报(自然科学版), vol. 28, no. 03, pp. 52-57, 2021.
 * 会议论文(其他作者)
-  * Z. Shang, **M. Wang**, X. Liu, "Restoring Harmonics: Enhancing Speech Quality with Deep Mask and Harmonic Restoration Network. Interspeech, 2025.
+  * Z. Li, **M. Wang**, F. Yang, X. Liu, "Model Optimization Methods for short-duration Speaker Verification", 15th IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), 2025. 
+  * Y. Zhao, Z. Shang, **M. Wang**, X. Liu, "Restoring Harmonics: Enhancing Speech Quality with Deep Mask and Harmonic Restoration Network". Interspeech, 2025.
+  * **M. Wang**, "Pitch-assistant Harmonic Recovery for Efficient Speech Enhancement", 2025 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2025.
+  * Y. Jia, J. Bai, **M. Wang**, J. Chen, P. Lu, F. Deng, S. Huang, "Anomalous Sound Detection based on Dual-dimension Data Mixing and Progressive Parameter Fine-tuning", 15th IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), 2025. 
   * H. Yin, **M. Wang**. J. Bai. D. Shi. W. Gan. J. Chen, "[Sub-Band and Full-Band Interactive U-Net with Dprnn for Demixing Cross-Talk Stereo Music](https://ieeexplore.ieee.org/document/10627597)", 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW), Seoul, Korea, Republic of, 2024, pp. 21-22.
   * J. Bai, H. Liu, **M. Wang**, S. Rahardja, "[AudioSetCaps: Enriched Audio Captioning Dataset Generation Using Large Audio Language Models](https://openreview.net/forum?id=uez4PMZwzP)", NeurIPS 2024 Workshop, 2024. 
   * J. Bai, H. Yin, **M. Wang**, D. Shi, W. Gan, J. Chen, "[Audiolog: LLMs-Powered Long Audio Logging with Hybrid Token-Semantic Contrastive Learning](https://ieeexplore.ieee.org/document/10688214)", 2024 IEEE International Conference on Multimedia and Expo (ICME), Niagara Falls, ON, Canada, 2024, pp. 1-6.
