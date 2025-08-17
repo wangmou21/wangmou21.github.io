@@ -17,6 +17,7 @@ redirect_from:
 * 2023.09 - 至今：高级音频算法工程师, OPPO
   * 手机OPPO Find X8 系列MTK平台手持&免提两种模式下的人声突显 (X8 & X8 Pro & X8s & X8s+)
   * 手机中端平台ADSP人声凸显小模型，(Reno14,k13系列)
+  * 面试官（校招、社招、实习生），新员工导师
 * 2019.08 - 2019.12: 核心算法工程师(实习), 科大讯飞
 
 教育经历
@@ -86,8 +87,8 @@ redirect_from:
 * 会议论文(其他作者)
   * Z. Li, **M. Wang**, F. Yang, X. Liu, "Model Optimization Methods for short-duration Speaker Verification", 15th IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), 2025. 
   * Y. Zhao, Z. Shang, **M. Wang**, X. Liu, "Restoring Harmonics: Enhancing Speech Quality with Deep Mask and Harmonic Restoration Network". Interspeech, 2025.
-  * **M. Wang**, "Pitch-assistant Harmonic Recovery for Efficient Speech Enhancement", 2025 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2025.
-  * Y. Jia, J. Bai, **M. Wang**, J. Chen, P. Lu, F. Deng, S. Huang, "Anomalous Sound Detection based on Dual-dimension Data Mixing and Progressive Parameter Fine-tuning", 15th IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), 2025. 
+  * Y. Jia, J. Bai, **M. Wang**, J. Chen, P. Lu, F. Deng, S. Huang, "Anomalous Sound Detection based on Dual-dimension Data Mixing and Progressive Parameter Fine-tuning", 15th IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), 2025.
+  * B. Liu, Z. Shang, H. Xie, **M. Wang**, X. Liu, P. Zhang, "Pitch-assistant Harmonic Recovery for Efficient Speech Enhancement", 2025 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2025.
   * H. Yin, **M. Wang**. J. Bai. D. Shi. W. Gan. J. Chen, "[Sub-Band and Full-Band Interactive U-Net with Dprnn for Demixing Cross-Talk Stereo Music](https://ieeexplore.ieee.org/document/10627597)", 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW), Seoul, Korea, Republic of, 2024, pp. 21-22.
   * J. Bai, H. Liu, **M. Wang**, S. Rahardja, "[AudioSetCaps: Enriched Audio Captioning Dataset Generation Using Large Audio Language Models](https://openreview.net/forum?id=uez4PMZwzP)", NeurIPS 2024 Workshop, 2024. 
   * J. Bai, H. Yin, **M. Wang**, D. Shi, W. Gan, J. Chen, "[Audiolog: LLMs-Powered Long Audio Logging with Hybrid Token-Semantic Contrastive Learning](https://ieeexplore.ieee.org/document/10688214)", 2024 IEEE International Conference on Multimedia and Expo (ICME), Niagara Falls, ON, Canada, 2024, pp. 1-6.
