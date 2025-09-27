@@ -42,7 +42,7 @@ redirect_from:
   
 论文
 ======
-目前, 谷歌学术引用超900, h指数16, i10指数22
+目前, 谷歌学术引用超990, h指数17, i10指数23
 * 期刊论文(第一作者)
   * **M. Wang**, J. Chen, X.L Zhang, S. Rahardja, "[End-to-end Multi-modal Speech Recognition on An Air and Bone Conducted Speech Corpus](https://ieeexplore.ieee.org/document/9961873?source=authoralert)", IEEE/ACM Transactions on Audio, Speech and Language Processing, vol. 31, pp. 513-524, 2023.
   * **M. Wang**, M. Zhao, J. Chen, S. Rahardja, "[Nonlinear Unmixing of Hyperspectral Data via Deep Autoencoder Networks](https://ieeexplore.ieee.org/document/8667664)", IEEE Geoscience and Remote Sensing Letters, vol. 16, no. 9, pp. 1467-1471, Sept. 2019.
@@ -60,9 +60,10 @@ redirect_from:
   * H. Wang, **M. Wang**, Y.Yin, Z. Qu, "[A universal structure of neural network for predicting heat, flow and mass transport in various three-dimensional porous media](https://www.sciencedirect.com/science/article/pii/S0017931025000298)", International Journal of Heat and Mass Transfer, vol. 241, 126688, 2025.  (共同一作)
   * S. Rahardja, **M. Wang**, B. P. Nguyen, P. Fränti, S. Rahardja, "[A Lightweight Classification of Adaptor Proteins Using Transformer Networks](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-05000-6)". BMC Bioinformatics, vol. 23, 461, 2022. (共同一作)
   * N. Gao, **M. Wang**, X. Liang, G. Pan, "[On-demand prediction of low-frequency average sound absorption coefficient of underwater coating using machine learning](https://www.sciencedirect.com/science/article/pii/S2590123025002518)", Results in Engineering, 104163, 2025.
-  * S. Guan, J. Wang, **M. Wang**, J. Chen, "Online Sampling Rate Offset Estimation via Real Part Maximization", IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2025.
+  * S. Guan, J. Wang, **M. Wang**, J. Chen, "[Online Sampling Rate Offset Estimation via Real Part Maximization](https://ieeexplore.ieee.org/document/11126964)", IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 33, pp. 3623-3637, 2025.
   * J. Bai, H. Liu, **M. Wang**, D. Shi, W. Wang, M. D. Plumbley, W. Gan, J. Chen, "[AudioSetCaps: An Enriched Audio-Caption Dataset using Automated Generation Pipeline with Large Audio and Language Models](https://ieeexplore.ieee.org/abstract/document/11051255)", IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 33, pp. 2817-2829, 2025. [[github](https://github.com/JishengBai/AudioSetCaps)]
   * K. Kuang, F. Yang, **M. Wang**, J. Yang, "[Low-complexity bone conduction-aided speech enhancement leveraging sub-band and full-band architecture](https://www.sciencedirect.com/science/article/abs/pii/S0003682X25003962)", Applied Acoustics, 240, 110924, 2025.
+  * N. Gao, J. Guo, **M. Wang**, D. Qin, X. Liang, Z. Zhang, G. Pan, "[Achieving Precise Prediction of Sound Absorption Performance for Composite Acoustic Metamaterials Utilizing Machine Learning](https://www.sciencedirect.com/science/article/abs/pii/S0022460X25005425), 119469, 2025.
   * H. Yin, J. Chen, J. Bai, **M. Wang**, S. Rahardja, D. Shi, W. Gan. "[Multi-granularity acoustic information fusion for sound event detection](https://www.sciencedirect.com/science/article/abs/pii/S0165168424003116)", Signal Processing, 227, 109691, 2025.
   * F. Cao, Q. Zheng, Z. Xia, **M. Wang**, C. Hou, B. Li, H. Hou, B. Cheng, "[Inverse design of bending channel sound-absorbing structures with porous material by two-stage deep neural network model](https://iopscience.iop.org/article/10.1088/1402-4896/adcd0d/meta)", Physica Scripta, 100, 5, 055963, 2025.
   * D. Zhang, J. Chen, S. Huang, J. Bai, Y. Jia, **M. Wang**. "[Synthesis-to-real robust training for enhanced sound event localization and detection using dynamic kernel convolution networks](https://www.sciencedirect.com/science/article/abs/pii/S0003682X24004183)", Applied Acoustics, 228, 110267, 2025.
