@@ -63,8 +63,9 @@ redirect_from:
   * S. Guan, J. Wang, **M. Wang**, J. Chen, "[Online Sampling Rate Offset Estimation via Real Part Maximization](https://ieeexplore.ieee.org/document/11126964)", IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 33, pp. 3623-3637, 2025.
   * J. Bai, H. Liu, **M. Wang**, D. Shi, W. Wang, M. D. Plumbley, W. Gan, J. Chen, "[AudioSetCaps: An Enriched Audio-Caption Dataset using Automated Generation Pipeline with Large Audio and Language Models](https://ieeexplore.ieee.org/abstract/document/11051255)", IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 33, pp. 2817-2829, 2025. [[github](https://github.com/JishengBai/AudioSetCaps)]
   * K. Kuang, F. Yang, **M. Wang**, J. Yang, "[Low-complexity bone conduction-aided speech enhancement leveraging sub-band and full-band architecture](https://www.sciencedirect.com/science/article/abs/pii/S0003682X25003962)", Applied Acoustics, 240, 110924, 2025.
-  * N. Gao, J. Guo, **M. Wang**, D. Qin, X. Liang, Z. Zhang, G. Pan, "[Achieving Precise Prediction of Sound Absorption Performance for Composite Acoustic Metamaterials Utilizing Machine Learning](https://www.sciencedirect.com/science/article/abs/pii/S0022460X25005425), 119469, 2025.
+  * N. Gao, J. Guo, **M. Wang**, D. Qin, X. Liang, Z. Zhang, G. Pan, "[Achieving Precise Prediction of Sound Absorption Performance for Composite Acoustic Metamaterials Utilizing Machine Learning](https://www.sciencedirect.com/science/article/abs/pii/S0022460X25005425)", 119469, 2025.
   * H. Yin, J. Chen, J. Bai, **M. Wang**, S. Rahardja, D. Shi, W. Gan. "[Multi-granularity acoustic information fusion for sound event detection](https://www.sciencedirect.com/science/article/abs/pii/S0165168424003116)", Signal Processing, 227, 109691, 2025.
+  * D. Zhang, J. Chen, J. Bai, **M. Wang**, "[Sound event localization and classification using WASN in Outdoor Environment](https://arxiv.org/abs/2403.20130)", 	arXiv:2403.20130, 2024.
   * F. Cao, Q. Zheng, Z. Xia, **M. Wang**, C. Hou, B. Li, H. Hou, B. Cheng, "[Inverse design of bending channel sound-absorbing structures with porous material by two-stage deep neural network model](https://iopscience.iop.org/article/10.1088/1402-4896/adcd0d/meta)", Physica Scripta, 100, 5, 055963, 2025.
   * D. Zhang, J. Chen, S. Huang, J. Bai, Y. Jia, **M. Wang**. "[Synthesis-to-real robust training for enhanced sound event localization and detection using dynamic kernel convolution networks](https://www.sciencedirect.com/science/article/abs/pii/S0003682X24004183)", Applied Acoustics, 228, 110267, 2025.
   * D. Li, **M. Wang**, S. Rahardja. "[Contrastive learning for deep tone mapping operator](https://www.sciencedirect.com/science/article/abs/pii/S0923596524000316)", Signal Processing: Image Communication, 126, 117130, 2024.
@@ -87,7 +88,7 @@ redirect_from:
   * 朱文博, **王谋**, 张晓雷, Susanto Rahardja, [基于语音分离的人工设计特征、参数化特征和可学习特征的比较](http://journal.cuc.edu.cn/frmShowPaperSummary.aspx?id=2041), 中国传媒大学学报(自然科学版), vol. 28, no. 03, pp. 52-57, 2021.
 * 会议论文(其他作者)
   * Z. Li, **M. Wang**, F. Yang, X. Liu, "Model Optimization Methods for short-duration Speaker Verification", 15th IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), 2025. 
-  * Y. Zhao, Z. Shang, **M. Wang**, X. Liu, "Restoring Harmonics: Enhancing Speech Quality with Deep Mask and Harmonic Restoration Network". Interspeech, 2025.
+  * Y. Zhao, Z. Shang, **M. Wang**, X. Liu, "[Restoring Harmonics: Enhancing Speech Quality with Deep Mask and Harmonic Restoration Network](https://www.isca-archive.org/interspeech_2025/zhao25l_interspeech.html)". Interspeech, 2025.
   * Y. Jia, J. Bai, **M. Wang**, J. Chen, P. Lu, F. Deng, S. Huang, "Anomalous Sound Detection based on Dual-dimension Data Mixing and Progressive Parameter Fine-tuning", 15th IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), 2025.
   * B. Liu, Z. Shang, H. Xie, **M. Wang**, X. Liu, P. Zhang, "Pitch-assistant Harmonic Recovery for Efficient Speech Enhancement", 2025 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2025.
   * H. Yin, **M. Wang**. J. Bai. D. Shi. W. Gan. J. Chen, "[Sub-Band and Full-Band Interactive U-Net with Dprnn for Demixing Cross-Talk Stereo Music](https://ieeexplore.ieee.org/document/10627597)", 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW), Seoul, Korea, Republic of, 2024, pp. 21-22.
@@ -106,8 +107,6 @@ redirect_from:
   * W. Zhu, **M. Wang**, X.L. Zhang, S. Rahardja, "[A comparison of handcrafted, parameterized, and learnable features for speech separation](https://ieeexplore.ieee.org/document/9689622)", 13th Asia-Pacific Signal and Information Processing Association Annual Summit and Conference, Tokyo, Japan, 2021, pp. 635-639.
   * R. Wang, **M. Wang**, X.L. Zhang, S. Rahardja, "[Domain Adaptation Neural Network for Acoustic Scene Classification in Mismatched Conditions](https://ieeexplore.ieee.org/document/9023057)", 2019 11th Asia-Pacific Signal and Information Processing Association Annual Summit and Conference, Lanzhou, China, 2019, pp. 1501-1505.
   * S. Zhang, Y. Wu, **M. Wang**, "[Pulse Signal Analysis for Pneumoconiosis Detection with SVM](https://ieeexplore.ieee.org/document/8645053)", 2018 International Symposium on Computer, Consumer and Control, Taichung, Taiwan, 2018, pp. 221-224.
-* arXiv论文
-  * D. Zhang, J. Chen, J. Bai, **M. Wang**, "[Sound event localization and classification using WASN in Outdoor Environment](https://arxiv.org/abs/2403.20130)", 	arXiv:2403.20130, 2024.
   
 专利
 ======
