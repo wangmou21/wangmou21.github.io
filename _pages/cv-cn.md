@@ -15,7 +15,7 @@ redirect_from:
   * 导师：[杨飞然](https://scholar.google.com/citations?hl=zh-CN&user=PWBq4TUAAAAJ)
   * 方向：智能语音算法的端侧部署
 * 2023.09 - 至今：高级音频算法工程师, OPPO
-  * 手机OPPO Find X8 系列MTK平台手持&免提两种模式下的人声突显 (X8 & X8 Pro & X8s & X8s+)
+  * 手机OPPO Find X8 和 X9 系列MTK平台手持&免提两种模式下的人声突显
   * 手机中端平台ADSP人声凸显小模型，(Reno14,k13系列)
   * 面试官（校招、社招、实习生），新员工导师
 * 2019.08 - 2019.12: 核心算法工程师(实习), 科大讯飞
@@ -42,7 +42,7 @@ redirect_from:
   
 论文
 ======
-目前, 谷歌学术引用超990, h指数17, i10指数23
+目前, 谷歌学术引用超1050, h指数17, i10指数23
 * 期刊论文(第一作者)
   * **M. Wang**, J. Chen, X.L Zhang, S. Rahardja, "[End-to-end Multi-modal Speech Recognition on An Air and Bone Conducted Speech Corpus](https://ieeexplore.ieee.org/document/9961873?source=authoralert)", IEEE/ACM Transactions on Audio, Speech and Language Processing, vol. 31, pp. 513-524, 2023.
   * **M. Wang**, M. Zhao, J. Chen, S. Rahardja, "[Nonlinear Unmixing of Hyperspectral Data via Deep Autoencoder Networks](https://ieeexplore.ieee.org/document/8667664)", IEEE Geoscience and Remote Sensing Letters, vol. 16, no. 9, pp. 1467-1471, Sept. 2019.
@@ -50,7 +50,7 @@ redirect_from:
   * **M. Wang**, S. Rahardja, P. Fränti, S. Rahardja, "[Single-lead ECG Recordings modeling for End-to-end Recognition of Atrial Fibrillation with Dual-path RNN](https://www.sciencedirect.com/science/article/pii/S1746809422005353)", Biomedical Signal Processing and Control, vol. 79, no. 1, 104067, 2023.
   * **M. Wang**, H. Wang, Y. Yin, S. Rahardja, Z. Qu, "[Temperature field prediction for various porous media considering variable boundary conditions using deep learning method](https://www.sciencedirect.com/science/article/pii/S0735193322000380)". International Communications in Heat and Mass Transfer, 132, 105916, 2022.
   * **M. Wang**, X.L. Zhang, S. Rahardja, "[An Unsupervised Deep Learning System for Acoustic Scene Analysis](https://www.mdpi.com/2076-3417/10/6/2076/html)", Applied Sciences, vol. 10, no. 6, pp. 2076, Mar. 2020.
-  * **王谋**, 白吉生, 黄思维, 李茁, 刘鑫, 杨飞然, 王子腾. 基于注意力机制的酒瓶裂纹敲击异常声音检测系统. 计算机工程与应用. 2024. (会议论文推荐至期刊发表)
+  * **王谋**, 白吉生, 黄思维, 李茁, 刘鑫, 杨飞然, 王子腾. [基于注意力机制的酒瓶裂纹敲击异常声音检测系统](http://cea.ceaj.org/CN/10.3778/j.issn.1002-8331.2408-0401). 计算机工程与应用. 2024. (会议论文推荐至期刊发表)
 * 会议论文(第一作者)
   * **M. Wang**, K. Kuang, Z. Li, F. Yang, J. Bai, X. Liu, "Deep-filtering-based Speech Enhancement via Bone-conducted Speech", 15th IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), 2025.
   * **M. Wang**, X.L. Zhang, S. Rahardja, "[A Hybrid Approach for Mobile Phone Clustering with Speech Recordings](https://ieeexplore.ieee.org/document/9049622)", 2019 12th International Conference on Ubi-media Computing and Workshops, Bali, Indonesia, 2019, pp. 205-209.
