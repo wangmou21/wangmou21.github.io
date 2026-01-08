@@ -42,7 +42,7 @@ redirect_from:
   
 论文
 ======
-目前, 谷歌学术引用超1100, h指数18, i10指数25
+目前, 谷歌学术引用超1100, h指数18, i10指数26
 * 期刊论文(第一作者)
   * **M. Wang**, J. Chen, X.L Zhang, S. Rahardja, "[End-to-end Multi-modal Speech Recognition on An Air and Bone Conducted Speech Corpus](https://ieeexplore.ieee.org/document/9961873?source=authoralert)", IEEE/ACM Transactions on Audio, Speech and Language Processing, vol. 31, pp. 513-524, 2023.
   * **M. Wang**, M. Zhao, J. Chen, S. Rahardja, "[Nonlinear Unmixing of Hyperspectral Data via Deep Autoencoder Networks](https://ieeexplore.ieee.org/document/8667664)", IEEE Geoscience and Remote Sensing Letters, vol. 16, no. 9, pp. 1467-1471, Sept. 2019.
@@ -66,7 +66,7 @@ redirect_from:
   * N. Gao, J. Guo, **M. Wang**, D. Qin, X. Liang, Z. Zhang, G. Pan, "[Achieving Precise Prediction of Sound Absorption Performance for Composite Acoustic Metamaterials Utilizing Machine Learning](https://www.sciencedirect.com/science/article/abs/pii/S0022460X25005425)", Journal of Sound and Vibration, 119469, 2025.
   * H. Yin, J. Chen, J. Bai, **M. Wang**, S. Rahardja, D. Shi, W. Gan. "[Multi-granularity acoustic information fusion for sound event detection](https://www.sciencedirect.com/science/article/abs/pii/S0165168424003116)", Signal Processing, 227, 109691, 2025.
   * D. Zhang, J. Chen, J. Bai, **M. Wang**, D. Shi, Q. Niu, A. Bernardini, "[Sound Event Localization and Classification using Wireless Acoustic Sensor Networks in Outdoor Environments](https://ieeexplore.ieee.org/document/11192195)", IEEE Sensors Journal, 2025.
-  * F. Cao, Q. Zheng, Z. Xia, **M. Wang**, C. Hou, B. Li, H. Hou, B. Cheng, "[Inverse design of bending channel sound-absorbing structures with porous material by two-stage deep neural network model](https://iopscience.iop.org/article/10.1088/1402-4896/adcd0d/meta)", Physica Scripta, 100, 5, 055963, 2025.
+  * F. Cao, Q. Zheng, Z. Xia, **M. Wang**, C. Hou, B. Li, H. Hou, B. Cheng, "[Inverse design of bending channel sound-absorbing structures with porous material by two-stage deep neural network model](https://iopscience.iop.org/article/10.1088/1402-4896/adcd0d/meta)", Physica Scripta, 100, 5, 055963, 2025. (通讯作者)
   * D. Zhang, J. Chen, S. Huang, J. Bai, Y. Jia, **M. Wang**. "[Synthesis-to-real robust training for enhanced sound event localization and detection using dynamic kernel convolution networks](https://www.sciencedirect.com/science/article/abs/pii/S0003682X24004183)", Applied Acoustics, 228, 110267, 2025.
   * D. Li, **M. Wang**, S. Rahardja. "[Contrastive learning for deep tone mapping operator](https://www.sciencedirect.com/science/article/abs/pii/S0923596524000316)", Signal Processing: Image Communication, 126, 117130, 2024.
   * S. Guan, **M. Wang**, Z. Bai, J. Wang, J. Chen, J. Benesty, "[Smoothed Frame-Level SINR and Its Estimation for Sensor Selection in Distributed Acoustic Sensor Networks](https://ieeexplore.ieee.org/document/10711254)", IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 32, pp. 4554-4568, 2024. 
