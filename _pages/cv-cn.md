@@ -42,7 +42,7 @@ redirect_from:
   
 论文
 ======
-目前, 谷歌学术引用超1100, h指数18, i10指数27
+目前, 谷歌学术引用超1200, h指数18, i10指数29
 * 期刊论文(第一作者)
   * **M. Wang**, J. Chen, X.L Zhang, S. Rahardja, "[End-to-end Multi-modal Speech Recognition on An Air and Bone Conducted Speech Corpus](https://ieeexplore.ieee.org/document/9961873?source=authoralert)", IEEE/ACM Transactions on Audio, Speech and Language Processing, vol. 31, pp. 513-524, 2023.
   * **M. Wang**, M. Zhao, J. Chen, S. Rahardja, "[Nonlinear Unmixing of Hyperspectral Data via Deep Autoencoder Networks](https://ieeexplore.ieee.org/document/8667664)", IEEE Geoscience and Remote Sensing Letters, vol. 16, no. 9, pp. 1467-1471, Sept. 2019.
@@ -62,7 +62,7 @@ redirect_from:
   * S. Rahardja, **M. Wang**, B. P. Nguyen, P. Fränti, S. Rahardja, "[A Lightweight Classification of Adaptor Proteins Using Transformer Networks](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-05000-6)". BMC Bioinformatics, vol. 23, 461, 2022. (共同一作)
   * Z. Shang, B. Liu, **M. Wang**, X. Liu, P. Zhang. "[Light Lightweight Speech Enhancement via Learnable Prior and Schrödinger Bridge Generative Adversarial Network](https://pubs.aip.org/asa/jasa/article/158/6/5008/3375540)", The Journal of the Acoustical Society of America. 2026. 
   * L. Guo, Z. Bai, **M. Wang**, Z. Zhao, J. Chen, J. Benesty, "[Harmonic model-based feature representation for temperature-modulated electronic noses](https://www.sciencedirect.com/science/article/pii/S0925400526001449)", Sensors and Actuators B: Chemical, 139566, 2026.
-  * N. Gao, J. Guo, **M. Wang**, D. Qin, Q. Huang, X. Liang, G. Pan, "Sound-absorption of resonant composite metastructure based on machine learning reverse assisted design", Applied Acoustics, 2026.
+  * N. Gao, J. Guo, **M. Wang**, D. Qin, Q. Huang, X. Liang, G. Pan, "[Sound-absorption of resonant composite metastructure based on machine learning reverse assisted design](https://www.sciencedirect.com/science/article/abs/pii/S0003682X26000228)", Applied Acoustics, 2026.
   * N. Gao, J. Guo, **M. Wang**, Y. Qu, X. Peng, Y. Tang, X. Liang, G. Pan, "[On demand design of two-dimensional phononic crystal bandgap based on machine learning and multi-objective topology optimization](https://www.sciencedirect.com/science/article/pii/S0888327025013718)", Mechanical Systems and Signal Processing, 2026.
   * Z. ZHANG, N. GAO, X. LIANG, Y. TANG, X. PENG, Y. QU, **M. WANG**, G. PAN, "[Noise suppression via controlled ion acoustic wave propagation](https://www.sciengine.com/SCTS/doi/10.1007/s11431-025-3123-5)", SCIENCE CHINA Technological Sciences, 2026. 
   * N. Gao, **M. Wang**, X. Liang, G. Pan, "[On-demand prediction of low-frequency average sound absorption coefficient of underwater coating using machine learning](https://www.sciencedirect.com/science/article/pii/S2590123025002518)", Results in Engineering, 104163, 2025.
@@ -162,6 +162,7 @@ redirect_from:
 
 其他经历
 ======
+* Technical Program Committee, ICSPCC 2026.
 * 举办APSIPA ASC 2025 Grand Challenge, [Spatiotemporal Enhanced Semi-supervised Acoustic Scene Classification](https://www.apsipa2025.org/wp/grand-challenge/).
 * Sponsor & Web Chair, [ISCPCC国际会议](http://www.icspcc.org/)，印度尼西亚，2024
 * 举办ICME 2024 Grand Challenge, 2024, [Semi-supervised Acoustic Scene Classification under Domain Shift](https://2024.ieeeicme.org/grand-challenge-proposals/).
