@@ -11,13 +11,13 @@ redirect_from:
 
 工作经历
 ======
-* 2023.08 - 至今：博士后, 中国科学院声学研究所
-  * 导师：[杨飞然](https://scholar.google.com/citations?hl=zh-CN&user=PWBq4TUAAAAJ)
-  * 方向：智能语音算法的端侧部署
 * 2023.09 - 至今：高级音频算法工程师, OPPO
   * 手机OPPO Find X8 和 X9 系列MTK平台手持&免提两种模式下的人声突显
   * 手机中端平台ADSP人声凸显小模型，(Reno14,k13系列)
   * 面试官（校招、社招、实习生），新员工导师
+* 2023.08 - 2026.03：博士后, 中国科学院声学研究所
+  * 导师：[杨飞然](https://scholar.google.com/citations?hl=zh-CN&user=PWBq4TUAAAAJ)
+  * 方向：智能语音算法的端侧部署
 * 2019.08 - 2019.12: 核心算法工程师(实习), 科大讯飞
 
 教育经历
@@ -42,7 +42,7 @@ redirect_from:
   
 论文
 ======
-目前, 谷歌学术引用超1200, h指数18, i10指数29
+目前, 谷歌学术引用超1300, h指数19, i10指数31
 * 期刊论文(第一作者)
   * **M. Wang**, J. Chen, X.L Zhang, S. Rahardja, "[End-to-end Multi-modal Speech Recognition on An Air and Bone Conducted Speech Corpus](https://ieeexplore.ieee.org/document/9961873?source=authoralert)", IEEE/ACM Transactions on Audio, Speech and Language Processing, vol. 31, pp. 513-524, 2023.
   * **M. Wang**, M. Zhao, J. Chen, S. Rahardja, "[Nonlinear Unmixing of Hyperspectral Data via Deep Autoencoder Networks](https://ieeexplore.ieee.org/document/8667664)", IEEE Geoscience and Remote Sensing Letters, vol. 16, no. 9, pp. 1467-1471, Sept. 2019.
@@ -127,6 +127,7 @@ redirect_from:
 
 书籍
 ======
+* 合著[General Audio Signal Processing with Deep Learning](https://link.springer.com/book/9789819508358)，Springer, 2026
 * 参与编写《复杂环境下语音信号处理的深度学习方法》，张晓雷著，清华大学出版社，2022
   
 挑战赛
