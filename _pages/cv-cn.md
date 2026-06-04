@@ -42,7 +42,7 @@ redirect_from:
   
 论文
 ======
-目前, 谷歌学术引用超1300, h指数19, i10指数31
+目前, 谷歌学术引用超1400, h指数20, i10指数32
 * 期刊论文(第一作者)
   * **M. Wang**, J. Chen, X.L Zhang, S. Rahardja, "[End-to-end Multi-modal Speech Recognition on An Air and Bone Conducted Speech Corpus](https://ieeexplore.ieee.org/document/9961873?source=authoralert)", IEEE/ACM Transactions on Audio, Speech and Language Processing, vol. 31, pp. 513-524, 2023.
   * **M. Wang**, M. Zhao, J. Chen, S. Rahardja, "[Nonlinear Unmixing of Hyperspectral Data via Deep Autoencoder Networks](https://ieeexplore.ieee.org/document/8667664)", IEEE Geoscience and Remote Sensing Letters, vol. 16, no. 9, pp. 1467-1471, Sept. 2019.
@@ -59,12 +59,14 @@ redirect_from:
   * **王谋**, 白吉生, 黄思维, 李茁, 刘鑫, 杨飞然, 王子腾. 基于注意力机制和数据过采样的酒瓶裂纹敲击异常声音检测系统. 第十九届全国人机语音通讯学术会议(NCMMSC). 2024.
 * 期刊论文(其他作者)
   * H. Wang, **M. Wang**, Y.Yin, Z. Qu, "[A universal structure of neural network for predicting heat, flow and mass transport in various three-dimensional porous media](https://www.sciencedirect.com/science/article/pii/S0017931025000298)", International Journal of Heat and Mass Transfer, vol. 241, 126688, 2025.  (共同一作)
-  * S. Rahardja, **M. Wang**, B. P. Nguyen, P. Fränti, S. Rahardja, "[A Lightweight Classification of Adaptor Proteins Using Transformer Networks](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-05000-6)". BMC Bioinformatics, vol. 23, 461, 2022. (共同一作)
+  * S. Rahardja, **M. Wang**, B. P. Nguyen, P. Fränti, S. Rahardja, "[A Lightweight Classification of Adaptor Proteins Using Transformer Networks](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-05000-6)". BMC Bioinformatics, vol. 23, 461, 2022. (共同一作) 
   * Z. Shang, B. Liu, **M. Wang**, X. Liu, P. Zhang. "[Light Lightweight Speech Enhancement via Learnable Prior and Schrödinger Bridge Generative Adversarial Network](https://pubs.aip.org/asa/jasa/article/158/6/5008/3375540)", The Journal of the Acoustical Society of America. 2026. 
   * L. Guo, Z. Bai, **M. Wang**, Z. Zhao, J. Chen, J. Benesty, "[Harmonic model-based feature representation for temperature-modulated electronic noses](https://www.sciencedirect.com/science/article/pii/S0925400526001449)", Sensors and Actuators B: Chemical, 139566, 2026.
   * N. Gao, J. Guo, **M. Wang**, D. Qin, Q. Huang, X. Liang, G. Pan, "[Sound-absorption of resonant composite metastructure based on machine learning reverse assisted design](https://www.sciencedirect.com/science/article/abs/pii/S0003682X26000228)", Applied Acoustics, 2026.
   * N. Gao, J. Guo, **M. Wang**, Y. Qu, X. Peng, Y. Tang, X. Liang, G. Pan, "[On demand design of two-dimensional phononic crystal bandgap based on machine learning and multi-objective topology optimization](https://www.sciencedirect.com/science/article/pii/S0888327025013718)", Mechanical Systems and Signal Processing, 2026.
-  * Z. ZHANG, N. GAO, X. LIANG, Y. TANG, X. PENG, Y. QU, **M. WANG**, G. PAN, "[Noise suppression via controlled ion acoustic wave propagation](https://www.sciengine.com/SCTS/doi/10.1007/s11431-025-3123-5)", SCIENCE CHINA Technological Sciences, 2026. 
+  * Dynamic Training Strategies for Domain Generalization in Self-supervised Anomaly Sound Detection, IEEE Transactions on Audio, Speech and Language Processing, 2026.
+  * Z. ZHANG, N. GAO, X. LIANG, Y. TANG, X. PENG, Y. QU, **M. WANG**, G. PAN, "[Noise suppression via controlled ion acoustic wave propagation](https://www.sciengine.com/SCTS/doi/10.1007/s11431-025-3123-5)", SCIENCE CHINA Technological Sciences, 2026.
+  * N Gao, J Guo, Z Zhang, D Qin, Q Huang, H Dong, **M Wang**, G Pan, Machine-learning-based lightweight optimization for vibration isolation of dual acoustic black hole beams. Structures, 2026.
   * N. Gao, **M. Wang**, X. Liang, G. Pan, "[On-demand prediction of low-frequency average sound absorption coefficient of underwater coating using machine learning](https://www.sciencedirect.com/science/article/pii/S2590123025002518)", Results in Engineering, 104163, 2025.
   * S. Guan, J. Wang, **M. Wang**, J. Chen, "[Online Sampling Rate Offset Estimation via Real Part Maximization](https://ieeexplore.ieee.org/document/11126964)", IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 33, pp. 3623-3637, 2025.
   * J. Bai, H. Liu, **M. Wang**, D. Shi, W. Wang, M. D. Plumbley, W. Gan, J. Chen, "[AudioSetCaps: An Enriched Audio-Caption Dataset using Automated Generation Pipeline with Large Audio and Language Models](https://ieeexplore.ieee.org/abstract/document/11051255)", IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 33, pp. 2817-2829, 2025. [[github](https://github.com/JishengBai/AudioSetCaps)]
@@ -93,6 +95,7 @@ redirect_from:
   * H. Wang, Y. Yin, B. Li, J. Bai, **M. Wang**, "[High-Throughput Screening of Metal-Organic Frameworks for the Impure Hydrogen Storage Supplying to a Fuel Cell Vehicle](https://link.springer.com/article/10.1007/s11242-020-01527-5)", Transport in Porous Media, 140, 727-742, 2021.
   * 朱文博, **王谋**, 张晓雷, Susanto Rahardja, [基于语音分离的人工设计特征、参数化特征和可学习特征的比较](http://journal.cuc.edu.cn/frmShowPaperSummary.aspx?id=2041), 中国传媒大学学报(自然科学版), vol. 28, no. 03, pp. 52-57, 2021.
 * 会议论文(其他作者)
+  * Bridging the Distribution Gap in Real-world Far-field Speech Enhancement via Lighweight Latent Representation Alignment. Interspeech, 2026.
   * Z. Li, **M. Wang**, F. Yang, X. Liu, "[Model Optimization Methods for short-duration Speaker Verification](https://ieeexplore.ieee.org/document/11194420)", 15th IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), 2025. 
   * Y. Zhao, Z. Shang, **M. Wang**, X. Liu, "[Restoring Harmonics: Enhancing Speech Quality with Deep Mask and Harmonic Restoration Network](https://www.isca-archive.org/interspeech_2025/zhao25l_interspeech.html)". Interspeech, 2025.
   * Y. Jia, J. Bai, **M. Wang**, J. Chen, P. Lu, F. Deng, S. Huang, "[Anomalous Sound Detection based on Dual-dimension Data Mixing and Progressive Parameter Fine-tuning](https://ieeexplore.ieee.org/document/11194664)", 15th IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), 2025.
