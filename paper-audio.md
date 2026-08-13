@@ -1,7 +1,10 @@
----
 layout: single
 permalink: /paper-audio/
 author_profile: true
 ---
 
-测试文字：页面正常打开
+<iframe 
+  src="./paper-audio/today.html" 
+  style="width: 100%; min-height: 1200px; border: none;"
+  onload="this.style.height = this.contentWindow.document.documentElement.scrollHeight + 'px';"
+></iframe>
