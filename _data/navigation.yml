@@ -20,3 +20,6 @@ main:
     
   - title: "中文简历"
     url: /cv-cn/
+
+  - title: "音频领域每日论文"
+    url: /paper-audio/
