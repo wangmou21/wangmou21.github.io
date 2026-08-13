@@ -14,21 +14,18 @@ jobs:
 
       - name: 计算日期并下载远程MD
         run: |
-          TODAY=$(date +%Y-%m-%d)
-          MONTH=$(date +%Y-%m)
-          MD_FILE="Arxiv_Report_${TODAY}.md"
-          # 对方完整路径（reports复数）
+          # 取昨天的日期（朋友每天生成前一天的报告）
+          YESTERDAY=$(date -d "yesterday" +%Y-%m-%d)
+          MONTH=$(date -d "yesterday" +%Y-%m)
+          MD_FILE="Arxiv_Report_${YESTERDAY}.md"
           REMOTE_PATH="reports/${MONTH}/${MD_FILE}"
-          # 远程加速地址
           SRC_URL="https://cdn.jsdelivr.net/gh/Sprout-Lee/daily-paper-reading@main/${REMOTE_PATH}"
 
-          # 创建paper-audio文件夹
           mkdir -p ./paper-audio
           LOCAL_MD=./paper-audio/today.md
 
-          # 下载，文件不存在则不覆盖旧文件
-          wget --timeout=15 -O ${LOCAL_MD} "${SRC_URL}" || echo "今日文档未更新，跳过"
-
+          wget --timeout=15 -O ${LOCAL_MD} "${SRC_URL}" || echo "昨日文档尚未生成，跳过"
+          
       - name: 提交更新
         run: |
           git config --global user.name "wangmou21"
