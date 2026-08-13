@@ -2,7 +2,7 @@
 layout: single
 title: 每日Arxiv论文阅读笔记
 permalink: /paper-audio/
-author_profile: true
+author_profile: false
 ---
 {% capture content %}{% include_relative ../paper-audio/today.md %}{% endcapture %}
 {{ content | markdownify }}
