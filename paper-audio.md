@@ -1,8 +1,8 @@
 ---
 layout: single
-title: 每日Arxiv论文阅读笔记
+title: ""
 permalink: /paper-audio/
-author_profile: true
+author_profile: false
 ---
 ✅ 页面已更新
 
