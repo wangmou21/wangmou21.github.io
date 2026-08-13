@@ -32,7 +32,7 @@ jobs:
       - name: 提交更新
         run: |
           git config --global user.name "wangmou21"
-          git config --global user.email "你的GitHub邮箱"
+          git config --global user.email "wangmou21@mail.nwpu.edu.cn"
           git add paper-audio/
           git commit -m "同步论文日报HTML: $(date -d "yesterday" +%Y-%m-%d)" || echo "无更新无需提交"
           git push
