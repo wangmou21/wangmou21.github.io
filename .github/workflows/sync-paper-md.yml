@@ -1,0 +1,38 @@
+name: 同步每日论文MD报告
+on:
+  schedule:
+    # UTC 0点 = 北京时间上午8点自动抓取
+    - cron: '5 14 * * *'
+  workflow_dispatch: # 可手动点按钮测试运行
+
+jobs:
+  sync_md:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 拉取你仓库代码
+        uses: actions/checkout@v4
+
+      - name: 计算日期并下载远程MD
+        run: |
+          TODAY=$(date +%Y-%m-%d)
+          MONTH=$(date +%Y-%m)
+          MD_FILE="Arxiv_Report_${TODAY}.md"
+          # 对方完整路径（reports复数）
+          REMOTE_PATH="reports/${MONTH}/${MD_FILE}"
+          # 远程加速地址
+          SRC_URL="https://cdn.jsdelivr.net/gh/Sprout-Lee/daily-paper-reading@main/${REMOTE_PATH}"
+
+          # 创建paper-audio文件夹
+          mkdir -p ./paper-audio
+          LOCAL_MD=./paper-audio/today.md
+
+          # 下载，文件不存在则不覆盖旧文件
+          wget --timeout=15 -O ${LOCAL_MD} "${SRC_URL}" || echo "今日文档未更新，跳过"
+
+      - name: 提交更新
+        run: |
+          git config --global user.name "wangmou21"
+          git config --global user.email "wangmou21@mail.nwpu.edu.cn"
+          git add paper-audio/
+          git commit -m "同步论文日报 ${TODAY}" || echo "无新内容无需提交"
+          git push
