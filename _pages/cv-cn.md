@@ -41,7 +41,7 @@ redirect_from:
   
 论文
 ======
-目前, 谷歌学术引用超1400, h指数20, i10指数32
+目前, 谷歌学术引用超1500, h指数20, i10指数35
 * 期刊论文(第一作者)
   * **M. Wang**, J. Chen, X.L Zhang, S. Rahardja, "[End-to-end Multi-modal Speech Recognition on An Air and Bone Conducted Speech Corpus](https://ieeexplore.ieee.org/document/9961873?source=authoralert)", IEEE/ACM Transactions on Audio, Speech and Language Processing, vol. 31, pp. 513-524, 2023.
   * **M. Wang**, M. Zhao, J. Chen, S. Rahardja, "[Nonlinear Unmixing of Hyperspectral Data via Deep Autoencoder Networks](https://ieeexplore.ieee.org/document/8667664)", IEEE Geoscience and Remote Sensing Letters, vol. 16, no. 9, pp. 1467-1471, Sept. 2019.
@@ -165,6 +165,7 @@ redirect_from:
 
 其他经历
 ======
+* IEEE Senior Member, 2026.
 * Technical Program Committee, ICSPCC 2026.
 * 举办APSIPA ASC 2025 Grand Challenge, [Spatiotemporal Enhanced Semi-supervised Acoustic Scene Classification](https://www.apsipa2025.org/wp/grand-challenge/).
 * Sponsor & Web Chair, [ISCPCC国际会议](http://www.icspcc.org/)，印度尼西亚，2024
