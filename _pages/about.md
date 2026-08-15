@@ -8,40 +8,94 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoc in [Institute of Acoustics of the Chinese Academy of Sciences](http://www.ioa.ac.cn/). My research interest includes speech enhancement, audio processing and deep learning.
+I am a **Senior Audio Algorithm Engineer at OPPO**, and formerly a Postdoctoral Researcher at the [Institute of Acoustics, Chinese Academy of Sciences](http://www.ioa.ac.cn/) (2023.08 – 2026.03). My research lies in speech enhancement, end-to-end audio signal processing, bone-conducted speech technology, deep learning for audio, and edge deployment of intelligent audio algorithms. I bridge academic innovation and industrial implementation, with proven experience in delivering audio algorithms for flagship and mid-range smartphone products.
 
-<hr style="height:1px;border:none;color:#333;background-color:#333;" />
+<hr style="height:1px;border:none;background-color:#e5e7eb;margin:2rem 0;" />
 
-# Education 👨🏼‍🎓
+## 💼 Professional Experience
 
-- 2016.09 - 2023.07 Northwestern Polytechnical University
-  - •	Ph. D., Information and Communication Engineering
+* **Senior Audio Algorithm Engineer**, OPPO  
+  <span style="color:#6b7280;">Sep. 2023 – Present</span>
+  * Led voice prominence algorithm development for handset and hands-free modes on OPPO Find X8 & X9 series (MediaTek platform)
+  * Built lightweight ADSP voice enhancement models for mid-range product lines (Reno14, K13 series)
+  * Served as hiring interviewer (campus, experienced, intern) and mentor for new engineers
 
-- 2021.06 - 2022.06 National University of Singapore
-  - •	Non-Graduating Program, Computer Science
+* **Postdoctoral Researcher**, Institute of Acoustics, Chinese Academy of Sciences  
+  <span style="color:#6b7280;">Aug. 2023 – Mar. 2026</span>
+  * Supervisor: Prof. [Feiran Yang](https://scholar.google.com/citations?hl=zh-CN&user=PWBq4TUAAAAJ)
+  * Research direction: edge deployment of intelligent speech algorithms
 
-- 2012.09 - 2016.07 Northwestern Polytechnical University
-  - •	B. Eng., Electronics and Information Engineering
+* **Core Algorithm Engineer (Intern)**, iFLYTEK  
+  <span style="color:#6b7280;">Aug. 2019 – Dec. 2019</span>
 
-<hr style="height:1px;border:none;color:#333;background-color:#333;" />
+<hr style="height:1px;border:none;background-color:#e5e7eb;margin:2rem 0;" />
 
-# Highlights 📃
+## 🎓 Education
 
-- Authored 34 international journals (6 papers as first author), 3 Chinese journal (1 paper as first author)
-- Authored 22 international conferences (3 papers as first author), 2 Chinese coference (1 paper as first author).
-- Authored 8 Chinese patents (3 patents as first author)
-- Participate in writing 1 book
-- Reviewer for more than 10 international journals
+* **Ph.D. in Information and Communication Engineering**  
+  Northwestern Polytechnical University, <span style="color:#6b7280;">Sep. 2016 – Jul. 2023</span>
+  * Supervisors: Prof. [Susanto Rahardja](https://scholar.google.com/citations?user=OdkA4jMAAAAJ) (IEEE Fellow, Fellow of Singapore Academy of Engineering)
+  * Admitted via direct PhD program with recommendation; Outstanding Graduate of NWPU
+  * Member of [Center for Intelligent Acoustics and Immersive Communications](https://ciaic.org/) (led by Prof. [Jingdong Chen](https://scholar.google.com/citations?user=hWAy1jcAAAAJ))
 
-<hr style="height:1px;border:none;color:#333;background-color:#333;" />
+* **Joint Training Program**, Computer Science  
+  National University of Singapore, <span style="color:#6b7280;">Jun. 2021 – Jun. 2022</span>
+  * Supervisor: Prof. [Zhiyong Huang](https://scholar.google.com/citations?user=C3rFBB8AAAAJ)
+  * Funded by China Scholarship Council (CSC) & Huawei Doctoral Academic Fellowship
 
-# Accolades 👊🏼
+* **B.Eng. in Electronic and Information Engineering**  
+  Northwestern Polytechnical University, <span style="color:#6b7280;">Sep. 2012 – Jul. 2016</span>
+  * Outstanding Graduate, Outstanding Graduation Thesis
+  * Baosteel Outstanding Student Award, China Telecom Scholarship
+  * Selected as annual student representative; profile included in *National Scholarship Winners Collection*
 
-- Baosteel Education Award - Outstanding Students Award, China, 2015
-- Scholarship of China Telecom, China, 2016
-- Entrepreneurship Scholarship of Ministry of Industry and Information Technology, China, 2018
-- Excellent Paper Award, Ubi-Media, 2019
-- Outstanding Reviewer Award for IEEE Transactions on Multimedia, 2021
-- Best Paper Award, NCMMSC, 2024
+* **Summer Schools**
+  * French Excellent Master Summer School, 2017 — Multispectral Imaging for Social, Environmental & Historical Heritage
+  * IEEE Signal Processing Society Summer School, 2019 — Intelligent Signal and Information Processing
 
-<hr style="height:1px;border:none;color:#333;background-color:#333;" />
+<hr style="height:1px;border:none;background-color:#e5e7eb;margin:2rem 0;" />
+
+## 📊 Research Highlights
+
+* **Publications**: 1500+ Google Scholar citations, h-index = 20, i10-index = 35
+  * 34+ international journal papers (6 first-author)
+  * 22+ international conference papers (3 first-author)
+  * 3 Chinese journal papers (1 first-author)
+  * 2 Chinese conference papers (1 first-author)
+* **Patents**: 8 Chinese invention patents (3 as first inventor)
+* **Books**:
+  * Co-author, *General Audio Signal Processing with Deep Learning*, Springer, 2026
+  * Contributor, *Deep Learning Methods for Speech Signal Processing in Complex Environments*, Tsinghua University Press, 2022
+* **Peer Review**: Active reviewer for 10+ top international journals
+
+<hr style="height:1px;border:none;background-color:#e5e7eb;margin:2rem 0;" />
+
+## 🏆 Selected Awards & Honors
+
+* Best Paper Award, 19th National Conference on Man-Machine Speech Communication (NCMMSC), 2024
+* Best Presentation Award, International Conference on Energy and AI, 2023
+* Second Prize, Science and Technology Award of Shaanxi Society of Mechanical Engineering, 2023
+* Second Prize, Excellent Research Achievement Award of Shaanxi Higher Education Institutions, 2023
+* Outstanding Reviewer Award, *IEEE Transactions on Multimedia*, 2022
+* Excellent Paper Award, International Conference on Ubi-Media Computing, 2019
+* China Scholarship Council (CSC) Scholarship, 2021
+* Huawei Doctoral Academic Fellowship, 2021
+* National Scholarship (Profile in *National Scholarship Winners Collection*), 2015
+* Baosteel Outstanding Student Award, 2015
+
+<hr style="height:1px;border:none;background-color:#e5e7eb;margin:2rem 0;" />
+
+## 📌 Academic & Professional Service
+
+* **IEEE Senior Member**, 2026
+* Technical Program Committee Member, IEEE ICSPCC 2026
+* Lead Organizer, Grand Challenge on *Semi-supervised Acoustic Scene Classification under Domain Shift*, IEEE ICME 2024
+* Lead Organizer, Grand Challenge on *Spatiotemporal Enhanced Semi-supervised Acoustic Scene Classification*, APSIPA ASC 2025
+* Sponsor & Web Chair, IEEE ICSPCC 2024 (Bali, Indonesia)
+* Journal Reviewer for:
+  * IEEE/ACM Transactions on Audio, Speech and Language Processing
+  * IEEE Transactions on Multimedia
+  * IEEE Transactions on Industrial Electronics
+  * IEEE Transactions on Information Forensics & Security
+  * IEEE Transactions on Cognitive and Developmental Systems
+  * *Neural Networks*, and more
