@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Senior Audio Algorithm Engineer at OPPO**, and formerly a Postdoctoral Researcher at the [Institute of Acoustics, Chinese Academy of Sciences](http://www.ioa.ac.cn/) (2023.08 – 2026.03). My research lies in speech enhancement, end-to-end audio signal processing, bone-conducted speech technology, deep learning for audio, and edge deployment of intelligent audio algorithms. I bridge academic innovation and industrial implementation, with proven experience in delivering audio algorithms for flagship and mid-range smartphone products.
+I am a **Senior Audio Algorithm Engineer at OPPO**, and formerly a Postdoctoral Researcher at the [Institute of Acoustics, Chinese Academy of Sciences](http://www.ioa.ac.cn/) (2023.08 – 2026.03). My research lies in speech enhancement, end-to-end audio signal processing, deep learning for audio, and edge deployment of intelligent audio algorithms. I bridge academic innovation and industrial implementation, with proven experience in delivering audio algorithms for smartphone products.
 
 <hr style="height:1px;border:none;background-color:#e5e7eb;margin:2rem 0;" />
 
