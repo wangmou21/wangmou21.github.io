@@ -57,11 +57,9 @@ I am a **Senior Audio Algorithm Engineer at OPPO**, and formerly a Postdoctoral 
 
 ## 📊 Research Highlights
 
-* **Publications**: 1500+ Google Scholar citations, h-index = 20, i10-index = 35
-  * 34+ international journal papers (6 first-author)
-  * 22+ international conference papers (3 first-author)
-  * 3 Chinese journal papers (1 first-author)
-  * 2 Chinese conference papers (1 first-author)
+* **Google Scholar**: 1500+ citations, h-index = 20, i10-index = 35
+* **Journal Papers**: 40+ international journals (6 as first author), 3 Chinese journals (1 as first author)
+* **Conference Papers**: 23 international conferences (3 as first author), 3 Chinese conferences (2 as first author)
 * **Patents**: 8 Chinese invention patents (3 as first inventor)
 * **Books**:
   * Co-author, *General Audio Signal Processing with Deep Learning*, Springer, 2026
