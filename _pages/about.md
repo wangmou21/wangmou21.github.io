@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Senior Audio Algorithm Engineer at OPPO**, and formerly a Postdoctoral Researcher at the [Institute of Acoustics, Chinese Academy of Sciences](http://www.ioa.ac.cn/) (2023.08 – 2026.03). My research lies in speech enhancement, end-to-end audio signal processing, deep learning for audio, and edge deployment of intelligent audio algorithms. I bridge academic innovation and industrial implementation, with proven experience in delivering audio algorithms for smartphone products.
+I am a **Senior Audio Algorithm Engineer at OPPO**, and formerly a Postdoctoral Researcher at the [Institute of Acoustics, Chinese Academy of Sciences](http://www.ioa.ac.cn/) (2023.08 – 2026.03). My research lies in speech enhancement, end‑to‑end audio signal processing, deep learning for audio, and edge deployment of intelligent audio algorithms. I bridge academic innovation and industrial implementation, with proven experience in delivering audio algorithms for smartphone products.
 
 <hr style="height:1px;border:none;background-color:#e5e7eb;margin:2rem 0;" />
 
@@ -16,13 +16,13 @@ I am a **Senior Audio Algorithm Engineer at OPPO**, and formerly a Postdoctoral 
 
 * **Senior Audio Algorithm Engineer**, OPPO  
   <span style="color:#6b7280;">Sep. 2023 – Present</span>
-  * Led voice prominence algorithm development for handset and hands-free modes on OPPO Find X8 & X9 series (MediaTek platform)
-  * Built lightweight ADSP voice enhancement models for mid-range product lines (Reno14, K13 series)
+  * Led voice prominence algorithm development for handset and hands‑free modes on OPPO Find X8 & X9 series (MediaTek platform)
+  * Built lightweight ADSP voice enhancement models for mid‑range product lines (Reno14, K13 series)
   * Served as hiring interviewer (campus, experienced, intern) and mentor for new engineers
 
 * **Postdoctoral Researcher**, Institute of Acoustics, Chinese Academy of Sciences  
   <span style="color:#6b7280;">Aug. 2023 – Mar. 2026</span>
-  * Supervisor: Prof. [Feiran Yang](https://scholar.google.com/citations?hl=zh-CN&user=PWBq4TUAAAAJ)
+  * Supervisor: Prof. [Feiran Yang](https://scholar.google.com/citations?hl=zh‑CN&user=PWBq4TUAAAAJ)
   * Research direction: edge deployment of intelligent speech algorithms
 
 * **Core Algorithm Engineer (Intern)**, iFLYTEK  
@@ -57,12 +57,12 @@ I am a **Senior Audio Algorithm Engineer at OPPO**, and formerly a Postdoctoral 
 
 ## 📊 Research Highlights
 
-* **Google Scholar**: 1500+ citations, h-index = 20, i10-index = 35
+* **Google Scholar**: 1500+ citations, h‑index = 20, i10‑index = 35
 * **Journal Papers**: 40+ international journals (6 as first author), 3 Chinese journals (1 as first author)
 * **Conference Papers**: 23 international conferences (3 as first author), 3 Chinese conferences (2 as first author)
 * **Patents**: 8 Chinese invention patents (3 as first inventor)
 * **Books**:
-  * Co-author, *General Audio Signal Processing with Deep Learning*, Springer, 2026
+  * Co‑author, *General Audio Signal Processing with Deep Learning*, Springer, 2026
   * Contributor, *Deep Learning Methods for Speech Signal Processing in Complex Environments*, Tsinghua University Press, 2022
 * **Peer Review**: Active reviewer for 10+ top international journals
 
@@ -70,12 +70,12 @@ I am a **Senior Audio Algorithm Engineer at OPPO**, and formerly a Postdoctoral 
 
 ## 🏆 Selected Awards & Honors
 
-* Best Paper Award, 19th National Conference on Man-Machine Speech Communication (NCMMSC), 2024
+* Best Paper Award, 19th National Conference on Man‑Machine Speech Communication (NCMMSC), 2024
 * Best Presentation Award, International Conference on Energy and AI, 2023
 * Second Prize, Science and Technology Award of Shaanxi Society of Mechanical Engineering, 2023
 * Second Prize, Excellent Research Achievement Award of Shaanxi Higher Education Institutions, 2023
 * Outstanding Reviewer Award, *IEEE Transactions on Multimedia*, 2022
-* Excellent Paper Award, International Conference on Ubi-Media Computing, 2019
+* Excellent Paper Award, International Conference on Ubi‑Media Computing, 2019
 * China Scholarship Council (CSC) Scholarship, 2021
 * Huawei Doctoral Academic Fellowship, 2021
 * National Scholarship (Profile in *National Scholarship Winners Collection*), 2015
@@ -87,8 +87,8 @@ I am a **Senior Audio Algorithm Engineer at OPPO**, and formerly a Postdoctoral 
 
 * **IEEE Senior Member**, 2026
 * Technical Program Committee Member, IEEE ICSPCC 2026
-* Lead Organizer, Grand Challenge on *Semi-supervised Acoustic Scene Classification under Domain Shift*, IEEE ICME 2024
-* Lead Organizer, Grand Challenge on *Spatiotemporal Enhanced Semi-supervised Acoustic Scene Classification*, APSIPA ASC 2025
+* Lead Organizer, Grand Challenge on *Semi‑supervised Acoustic Scene Classification under Domain Shift*, IEEE ICME 2024
+* Lead Organizer, Grand Challenge on *Spatiotemporal Enhanced Semi‑supervised Acoustic Scene Classification*, APSIPA ASC 2025
 * Sponsor & Web Chair, IEEE ICSPCC 2024 (Bali, Indonesia)
 * Journal Reviewer for:
   * IEEE/ACM Transactions on Audio, Speech and Language Processing
