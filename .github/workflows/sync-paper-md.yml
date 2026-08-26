@@ -1,38 +1,32 @@
 name: 同步每日论文HTML报告
 on:
   schedule:
-    - cron: '0 11 * * *'  # 北京时间早8点
+    - cron: '0 3 * * *'  # UTC 0点 = 北京时间 08:00，每日上午执行
   workflow_dispatch:
-
 jobs:
   sync_html:
     runs-on: ubuntu-latest
     steps:
       - name: 拉取仓库代码
         uses: actions/checkout@v5
-
       - name: 计算日期并下载HTML
         run: |
-          YESTERDAY=$(date -d "yesterday" +%Y-%m-%d)
-          MONTH=$(date -d "yesterday" +%Y-%m)
-          HTML_FILE="Arxiv_Report_${YESTERDAY}.html"
+          TODAY=$(date +%Y-%m-%d)
+          MONTH=$(date +%Y-%m)
+          HTML_FILE="Arxiv_Report_${TODAY}.html"
           REMOTE_PATH="reports/${MONTH}/${HTML_FILE}"
           SRC_URL="https://cdn.jsdelivr.net/gh/Sprout-Lee/daily-paper-reading@main/${REMOTE_PATH}"
-
           mkdir -p ./paper-audio
           LOCAL_HTML=./paper-audio/today.html
-
           wget --timeout=15 -O ${LOCAL_HTML} "${SRC_URL}" || echo "今日HTML未更新，跳过"
-
       - name: 修复HTML内相对路径（解决PDF链接失效问题）
         run: |
           # 把HTML里的 ../../pdfs/ 替换为朋友仓库的直链，保证PDF能正常打开
           sed -i 's|../../pdfs/|https://cdn.jsdelivr.net/gh/Sprout-Lee/daily-paper-reading@main/pdfs/|g' ./paper-audio/today.html
-
       - name: 提交更新
         run: |
           git config --global user.name "wangmou21"
           git config --global user.email "wangmou21@mail.nwpu.edu.cn"
           git add paper-audio/
-          git commit -m "同步论文日报HTML: $(date -d "yesterday" +%Y-%m-%d)" || echo "无更新无需提交"
+          git commit -m "同步论文日报HTML: $(date +%Y-%m-%d)" || echo "无更新无需提交"
           git push
