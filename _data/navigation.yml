@@ -29,6 +29,9 @@ main:
   - title: "中文简历"
     url: /cv-cn/
 
+  - title: "论文发表"
+    url: /publications/
+    
   - title: "音频论文"
     url: /paper-audio/
 
